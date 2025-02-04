@@ -22,18 +22,21 @@ To **unite our community** by building and maintaining an **alternate, secure co
 
 ### 📶 **How Meshtastic Works**  
 
-Meshtastic is a long-range, open-source communication network designed to work without traditional cell towers or internet access. Here's how it works:
+Meshtastic is a long-range, open-source communication network designed to function without traditional cell towers or internet access. It is highly resilient and designed to avoid single points of failure. Here's how it works:
 
 1. **Device-to-Device Communication**:  
-   Meshtastic devices form a mesh network, meaning messages can hop from one device to another until they reach their destination. This allows communication over large distances, even in remote areas, by relaying messages through multiple devices.  
+   Meshtastic devices form a decentralized mesh network, where messages hop from one device to another until they reach their destination. This allows communication over large distances, even in remote areas, by relaying messages through multiple devices.  
 
-2. **Unlicensed ISM Band Usage**:  
-   Meshtastic operates on the **Industrial, Scientific, and Medical (ISM)** band, which is free to use and does **not require a license**. In the United States, Meshtastic devices typically use the **915 MHz** frequency. This frequency offers a good balance of range and penetration through obstacles like buildings and trees.  
+2. **Network Resilience (No Single Point of Failure)**:  
+   If a node, repeater, or router in the network goes offline, the mesh will automatically route messages through other available nodes. This redundancy ensures that the network continues operating smoothly, avoiding disruption from any single point of failure. ⚙️🔄
 
-3. **Power & Range**:  
-   Devices can legally transmit up to **1 watt (30 dBm)** of power on the ISM band, providing significant coverage even in remote areas. The mesh network extends communication by allowing each device to act as a relay, further increasing the range of the system.
+3. **Unlicensed ISM Band Usage**:  
+   Meshtastic operates on the **Industrial, Scientific, and Medical (ISM)** band, which is free to use and does **not require a license**. In the United States, Meshtastic devices typically use the **915 MHz** frequency. This frequency offers an ideal balance of range and penetration through obstacles like buildings and trees.  
 
-Meshtastic is a perfect solution for outdoor enthusiasts, emergency responders, and communities looking to maintain communication when traditional networks are unavailable. 🌐📡
+4. **Power & Range**:  
+   Devices can legally transmit up to **1 watt (30 dBm)** of power on the ISM band, providing significant coverage even in remote areas. The mesh network's relaying capabilities further extend its range by passing messages through intermediate nodes.
+
+Meshtastic is an excellent solution for outdoor enthusiasts, emergency responders, and communities aiming to maintain reliable communication when traditional networks are unavailable. 🌐📡  
 
 ---
 
