@@ -122,3 +122,26 @@ We're proud to support and learn from our friends at **[SoCal Mesh](https://soca
 Whether you're passionate about decentralized networks, emergency communications, or just want to connect with like-minded tech enthusiasts, **SoCal Mesh** is the place to be!  
 
 👉 **[Join their Discord community here](https://discord.gg/N5sXGwb5)** to collaborate, share ideas, and make a difference! 💬📡
+
+---
+
+### 📜 **TC Mesh Community Messaging Policy**  
+
+To ensure a positive, inclusive, and respectful environment for all users, the following guidelines apply to messaging over TC Mesh:  
+
+1. 🚫 **No Politics or Religion**:  
+   Keep conversations neutral and avoid topics related to politics or religion to maintain harmony.  
+
+2. 🗣️ **No Foul Language**:  
+   Use respectful language at all times. Offensive or inappropriate language is strictly prohibited.  
+
+3. 🚷 **No SHAFT Content**:  
+   Content related to **Sex, Hate, Alcohol, Firearms, or Tobacco/Drugs** is not allowed. Keep messages clean and safe for everyone.  
+
+4. 👶 **All-Age Appropriate**:  
+   All messages should be suitable for audiences of all ages. Think family-friendly in all communications.  
+
+5. 📵 **No Commercial Sales or Spam**:  
+   Messages promoting commercial sales, advertisements, or spam are not permitted. Let's keep the network free of unwanted promotions.  
+
+Together, we can maintain a respectful, safe, and enjoyable space on TC Mesh! 🤝🌐  
