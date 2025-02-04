@@ -12,11 +12,11 @@ Prelimary "wish list" of a TCMESH Solar Router node, feel free to suggest change
 
 3. **Waterproof Enclosure** 💧📦
    - **Description**: IP67-rated ABS plastic enclosure to protect electronics from environmental factors.
-   - **Link**: [Waterproof Electronics Enclosure](https://www.amazon.com/dp/B07Z7Y3GRH)
+   - **Link**: need to find a good one
 
 4. **Antenna Adapter** 🔌📶
    - **Description**: SMA Male to N-Type Female adapter to connect the Station G2 to an N-Type antenna.
-   - **Link**: [SMA Male to N-Type Female Adapter](https://www.amazon.com/dp/B07F7VYQ3Y)
+   - **Link**: need to find a good one
 
 5. **Antenna** 📡
    - **Description**: ALFA AOA-915-5ACM 5 dBi Omni Outdoor 915MHz antenna for extended range.
