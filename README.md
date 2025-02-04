@@ -72,7 +72,8 @@ This allows **off-grid** communication across any connected nodes. Perfect for u
 ## 🤝 **We Need Your Help!**  
 We're looking for:  
 - **Nerds, hardware hackers, and radio enthusiasts** 🎙️ to help expand the network.  
-- **Volunteers** to place **repeaters** on their property 🏠 to improve coverage. Ideal spots have good line-of-sight to neighboring areas.  
+- **Volunteers** to place **repeaters** on their property 🏠 to improve coverage. Ideal spots have good line-of-sight to neighboring areas.
+- **Host a Fund Raiser** - we are looking to raise a minimum of $1,000 through a resaurant fund raiser.  If you have experience doing this, please reach us on the mesh network.
 
 By placing repeaters, we can strengthen coverage across the canyon and beyond!  
 
