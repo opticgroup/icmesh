@@ -10,7 +10,7 @@ To **unite our community** by building and maintaining an **alternate, secure co
 
 ## ⚙️ **Quick Start**  
 
-1. **Get a Device**: Starting at **~$60** 👉 [Etsy TCMESH Devices](https://www.etsy.com/people/i9v8id6n/favorites/tcmesh-meshtastic-turn-key-devices)  
+1. **Get a Device**: Starting at **~$60** 👉 [Etsy Store](https://www.etsy.com/people/i9v8id6n/favorites/tcmesh-meshtastic-turn-key-devices)  
 2. **Install the App**: Download the **Meshtastic** app from the App Store or Google Play. 📲  
 3. **Connect Your Phone**: Use your **iPhone** or **Android** to connect via **Bluetooth** to your Meshtastic device.  
 4. **Join the Network**: Once connected, your device will automatically communicate with other nodes on the mesh.  
@@ -71,16 +71,11 @@ To expand **TCMESH** coverage across **Trabuco Canyon** and connect neighboring 
 - 📻 **Station G2 radios for extended range:** Uses **higher-output radios** with **tuned receivers and transmitters**, optimized to reach longer distances.  
   - Equipped with **5-7dB gain** **915MHz antennas** for improved transmission and reception over challenging terrain.  
 
-### **Costs and Requirements:**  
-- Estimated price range: **$250 to $500** per node.  
-- Nodes will serve as key infrastructure points, enhancing the mesh network's reliability and coverage in critical areas.
+### **Costs:**  
+- Estimated build price: **$150** or turn-key **$250** to **$450** per node.
+- Nodes will serve as key infrastructure points, linking seperate communities, enhancing the mesh network's reliability and coverage.
 
 By strategically placing these nodes on high ground, we can ensure robust, off-grid communication throughout the canyon network! 📡🏞️  
-
-
-
-
-
 
 This allows **off-grid** communication across any connected nodes. Perfect for use in natural disasters, areas with poor reception, or for tech enthusiasts looking to experiment with mesh networking. 🛰️  
 
@@ -91,15 +86,34 @@ We're looking for:
 - **Nerds, hardware hackers, and radio enthusiasts** 🎙️ to help expand the network.  
 - **Volunteers** to place **repeaters** on their property 🏠 to improve coverage. Ideal spots have good line-of-sight to neighboring areas.
 - **Host a Fund Raiser** - we are looking to raise a minimum of $1,000 through a resaurant fund raiser.  If you have experience doing this, please reach us on the mesh network.
-
+- **Community Leaders** - find funds to buy nodes and work with neighbors to place them on their property
 By placing repeaters, we can strengthen coverage across the canyon and beyond!  
 
 ---
 
 ## ✅ **Current Progress**  
-- **Live this week!**  
+- **Live this week!**  ETA Feb 8th, 2025
 - Successful tests have enabled conversations across **Orange County**.  
 - Focused on building reliable communication throughout **Trabuco Canyon**.
+
+---
+
+### 📅 **Join Our Weekly TC Mesh Net!**  
+
+We're excited to invite all TC Mesh users to our **Weekly Net**! 🎉 This is a great opportunity for us to stay connected, practice using Meshtastic, and ensure the network is operating smoothly.
+
+🕕 **When:** Every Tuesday at **6:00 PM PT**  
+📡 **Where:** TC Mesh Channel  
+
+During the net, we will:  
+1. **Trade Messages** 💬 – Test and communicate with others on the network.  
+2. **Expose Coverage Issues** 📶 – Identify weak spots and areas that need improvement.  
+3. **Teach & Learn** 🧑‍🏫 – Share knowledge with new users, answer questions, and provide demos.  
+4. **Ensure Network Health** ⚙️ – Confirm that devices are functioning properly and the network is stable.
+
+Regular participation helps us keep TC Mesh reliable and ready for when we need it most. Whether you're a beginner or an experienced user, your involvement makes a difference! 🤝  
+
+See you every Tuesday! Let's keep building and improving together! 🌐✨  
 
 ---
 
