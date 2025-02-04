@@ -15,7 +15,7 @@ To **unite our community** by building and maintaining an **alternate, secure co
 3. **Connect Your Phone**: Use your **iPhone** or **Android** to connect via **Bluetooth** to your Meshtastic device.
 4. **Configure your device**: Please use any short name you want.  For example mine is:  🦅 - EAGLE TCMESH.   **Important** use TCMESH in your long name so we can include your anonymized location on our future TCMESH map.
 5. **Join the Network**: Once connected, your device will automatically communicate with other nodes on the mesh.  
-6. **Join TCMESH**: Tap here to join the **TCMESH encrypted group channel** 👉 [Join TCMESH](https://meshtastic.org/e/#ChASAUwaBlRDTUVTSCUBAAAAEg8IATgBQAVIAVAeaAHABgE)  
+6. **Join TCMESH**: Tap here to join the **TCMESH encrypted group channel** 👉 [Join TCMESH](https://meshtastic.org/e/?add=true#ChASAUwaBlRDTUVTSCUBAAAAEg8IATgBQAVIAVAeaAHABgE)  
 
 📖 **For detailed instructions**, see our full guide: [INSTALLGUIDE.md](INSTALLGUIDE.md)  
 
