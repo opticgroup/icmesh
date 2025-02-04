@@ -86,7 +86,7 @@ This allows **off-grid** communication across any connected nodes. Perfect for u
 
 ## 🤝 **We Need Your Help!**  
 We're looking for:  
-- **Nerds, hardware hackers, and radio enthusiasts** 🎙️ to help expand the network.  
+- **Nerds, hardware hackers, and radio enthusiasts** 🎙️ to help expand the network and write code.  
 - **Volunteers** to place **repeaters** on their property 🏠 to improve coverage. Ideal spots have good line-of-sight to neighboring areas.
 - **Host a Fund Raiser** - we are looking to raise a minimum of $1,000 through a resaurant fund raiser.  If you have experience doing this, please reach us on the mesh network.
 - **Community Leaders** - find funds to buy nodes and work with neighbors to place them on their property
@@ -139,6 +139,32 @@ We're proud to support and learn from our friends at **[SoCal Mesh](https://soca
 Whether you're passionate about decentralized networks, emergency communications, or just want to connect with like-minded tech enthusiasts, **SoCal Mesh** is the place to be!  
 
 👉 **[Join their Discord community here](https://discord.gg/N5sXGwb5)** to collaborate, share ideas, and make a difference! 💬📡
+
+---
+
+## 🎯 **Future Goals for TC Mesh**  
+
+We're continuously working to expand and enhance the **TC Mesh Network** to better serve our community. Here are some of our key goals for the future:
+
+1. **High-Powered Solar Node BBS** ☀️📡  
+   - Set up a high-powered, solar-powered node to function as a **Bulletin Board System (BBS)** based on [Meshing Around](https://github.com/SpudGunMan/meshing-around). This will enable users to leave and retrieve messages when offline, creating a more robust communication system.
+
+2. **Document Roll-Out & Community Involvement** 📋👥  
+   - Track and document the network’s roll-out process, including community involvement metrics.  
+   - Present this use case to **SoCal Mesh** and national tech events to showcase how we built and expanded our mesh network.
+
+3. **Feature TC Mesh at the 4th of July Parade** 🎆🇺🇸  
+   - Highlight **TC Mesh** during the annual **4th of July Parade**, promoting its benefits and encouraging community participation.
+
+4. **501(c)(3) Partnership** 🤝🏛️  
+   - Attach **TC Mesh** as a chapter of an existing **501(c)(3)** nonprofit.  
+   - Since our project is small, this approach avoids the expenses and administrative burden of managing a separate nonprofit.
+
+5. **Build Days & In-Person Meetups** 🔧🍔  
+   - Organize regular **build days** and **meetups** for both **Trabuco Canyon Meshers** and **SoCal Meshers**.  
+   - Support local restaurants that offer **revenue-sharing** by donating a portion of the proceeds to fund future network builds.
+
+By achieving these goals, we aim to strengthen the network, foster collaboration, and ensure that **TC Mesh** remains a vital, off-grid communication resource for our community! 🌐✨  
 
 ---
 
