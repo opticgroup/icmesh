@@ -9,10 +9,14 @@ To **unite our community** by building and maintaining an **alternate, secure co
 ---
 
 ## ⚙️ **Quick Start**  
-1. **Get a Device**: Starting at $25 👉 [Etsy TCMESH](https://www.etsy.com/people/i9v8id6n/favorites/tcmesh-meshtastic-turn-key-devices)
-3. **Connect Your Phone**: Use your **iPhone** or **Android** to connect via **Bluetooth**.  
-4. **Join the Network**: Your device will automatically communicate with other nodes on the mesh.  
-5. **Join the TCMESH**:Once you have Meshtastic installed on your phone [Click here](https://meshtastic.org/e/#ChASAUwaBlRDTUVTSCUBAAAAEg8IATgBQAVIAVAeaAHABgE) to join the TCMESH encrypted group channel
+
+1. **Get a Device**: Starting at **$25** 👉 [Etsy TCMESH Devices](https://www.etsy.com/people/i9v8id6n/favorites/tcmesh-meshtastic-turn-key-devices)  
+2. **Install the App**: Download the **Meshtastic** app from the App Store or Google Play. 📲  
+3. **Connect Your Phone**: Use your **iPhone** or **Android** to connect via **Bluetooth** to your Meshtastic device.  
+4. **Join the Network**: Once connected, your device will automatically communicate with other nodes on the mesh.  
+5. **Join TCMESH**: Tap here to join the **TCMESH encrypted group channel** 👉 [Join TCMESH](https://meshtastic.org/e/#ChASAUwaBlRDTUVTSCUBAAAAEg8IATgBQAVIAVAeaAHABgE)  
+
+📖 **For detailed instructions**, see our full guide: [INSTALLGUIDE.md](INSTALLGUIDE.md)  
 
 ---
 
@@ -34,7 +38,7 @@ To **unite our community** by building and maintaining an **alternate, secure co
 - **Williams Canyon**  
 - **Black Star Canyon**  
 
-The goal is to create seamless, **encrypted off-grid communication** throughout the entire region! 📡  
+The goal is to create best effort, **encrypted off-grid communication** throughout the entire canyon region! 📡  
 
 ---
 
@@ -46,7 +50,7 @@ To expand **TCMESH** coverage across **Trabuco Canyon** and connect neighboring 
 - 📡 **Long-range distance:** Equipped with **tuned antennas** to maximize coverage across rugged terrain.  
 - ☀️ **Solar-powered:** Ensures continuous operation without relying on external power sources.  
 - 🔧 **Remote-configurable:** Easily managed and updated remotely to maintain optimal performance.  
-- 🌐 **Inter-canyon connectivity:** Facilitates seamless communication between **Trabuco Canyon**, **Modjeska**, **Silverado**, **Williams**, and **Black Star Canyons**.  
+- 🌐 **Inter-canyon connectivity:** Facilitates best effort communication between **Trabuco Canyon**, **Modjeska**, **Silverado**, **Williams**, and **Black Star Canyons**.  
 - 📻 **Station G2 radios for extended range:** Uses **higher-output radios** with **tuned receivers and transmitters**, optimized to reach longer distances.  
   - Equipped with **5-7dB gain** **915MHz antennas** for improved transmission and reception over challenging terrain.  
 
