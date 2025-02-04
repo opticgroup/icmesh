@@ -11,7 +11,7 @@ To **unite our community** by building and maintaining an **alternate, secure co
 ## ⚙️ **Quick Start**  
 
 1. **Get a Device**: Starting at **~$60** 👉 [Etsy Store](https://www.etsy.com/people/i9v8id6n/favorites/tcmesh-meshtastic-turn-key-devices)  
-2. **Install the App**: Download the **Meshtastic** app from the App Store or Google Play. 📲  
+2. **Install the App:** [Download the Meshtastic app on iOS (App Store)](https://apps.apple.com/us/app/meshtastic/id1586432531) or [Android (Google Play)](https://play.google.com/store/apps/details?id=com.geeksville.mesh&pcampaignid=web_share). 📲  
 3. **Connect Your Phone**: Use your **iPhone** or **Android** to connect via **Bluetooth** to your Meshtastic device.  
 4. **Join the Network**: Once connected, your device will automatically communicate with other nodes on the mesh.  
 5. **Join TCMESH**: Tap here to join the **TCMESH encrypted group channel** 👉 [Join TCMESH](https://meshtastic.org/e/#ChASAUwaBlRDTUVTSCUBAAAAEg8IATgBQAVIAVAeaAHABgE)  
