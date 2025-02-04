@@ -94,12 +94,7 @@ By placing repeaters, we can strengthen coverage across the canyon and beyond!
 
 ---
 
-## 🛠️ **Contribute**  
-Want to help build TCMESH?  
-- Submit an issue or pull request here on GitHub.  
-- Reach out to us directly to collaborate!  
-
-Together, we can create a **reliable, encrypted communication network** for Trabuco Canyon! 🌄🔒  
+## 📡✨ Communications Compared 📊
 
 | 📚 **PACE Level**   | 📡 **Method**           | 📝 **Description**                                                                             | ✅ **Pros**                           | ❌ **Cons**                           |
 |----------------------|--------------------------|------------------------------------------------------------------------------------------------|----------------------------------------|----------------------------------------|
