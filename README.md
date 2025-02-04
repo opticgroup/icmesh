@@ -2,7 +2,17 @@
 
 Welcome to **TCMESH**, a community-driven project to create a **peer-to-peer encrypted communication network** across **Trabuco Canyon, CA** using **Meshtastic**. This network operates completely **off-grid**—no internet or cell service required! 🌐  
 
-Our goal is to provide **alternate, secure communication** during emergencies or for staying connected in remote areas.
+### 🚨 **Our Mission**  
+
+To **unite our community** by building and maintaining an **alternate, secure communication network** for emergencies. This network will keep us connected without relying on traditional infrastructure like **SCE power**, **internet**, or **cell towers**. 🌐📡  
+
+---
+
+## ⚙️ **Quick Start**  
+1. **Get a Device**: Starting at $25 👉 [Etsy TCMESH](https://www.etsy.com/people/i9v8id6n/favorites/tcmesh-meshtastic-turn-key-devices)
+3. **Connect Your Phone**: Use your **iPhone** or **Android** to connect via **Bluetooth**.  
+4. **Join the Network**: Your device will automatically communicate with other nodes on the mesh.  
+5. **Join the TCMESH**:Once you have Meshtastic installed on your phone [Click here](https://meshtastic.org/e/#ChASAUwaBlRDTUVTSCUBAAAAEg8IATgBQAVIAVAeaAHABgE) to join the TCMESH encrypted group channel
 
 ---
 
@@ -28,15 +38,24 @@ The goal is to create seamless, **encrypted off-grid communication** throughout 
 
 ---
 
-## ⚙️ **Quick Start**  
-1. **Get a Device**: Purchase a **Meshtastic-compatible** device starting at $25 from the TC Mesh collection at 
-   👉 [Etsy TCMESH](https://www.etsy.com/people/i9v8id6n/favorites/tcmesh-meshtastic-turn-key-devices)
-   
- !image   tcmesh.png
- 
-3. **Connect Your Phone**: Use your **iPhone** or **Android** to connect via **Bluetooth**.  
-4. **Join the Network**: Your device will automatically communicate with other nodes on the mesh.  
-5. **Join the TCMESH**:Once you have Meshtastic installed scan this code and the local TCMESH channel will be added.  [Click here](https://meshtastic.org/e/#ChASAUwaBlRDTUVTSCUBAAAAEg8IATgBQAVIAVAeaAHABgE) or 
+## 🌄 **Extending Range with High-Elevation Nodes**
+
+To expand **TCMESH** coverage across **Trabuco Canyon** and connect neighboring canyons, we are deploying **high-elevation, solar-powered, remote-configurable nodes**. These specialized nodes are designed to act as **point-to-point routers**, bridging communication between different areas.  
+
+### **Key Features:**  
+- 📡 **Long-range distance:** Equipped with **tuned antennas** to maximize coverage across rugged terrain.  
+- ☀️ **Solar-powered:** Ensures continuous operation without relying on external power sources.  
+- 🔧 **Remote-configurable:** Easily managed and updated remotely to maintain optimal performance.  
+- 🌐 **Inter-canyon connectivity:** Facilitates seamless communication between **Trabuco Canyon**, **Modjeska**, **Silverado**, **Williams**, and **Black Star Canyons**.  
+- 📻 **Station G2 radios for extended range:** Uses **higher-output radios** with **tuned receivers and transmitters**, optimized to reach longer distances.  
+  - Equipped with **5-7dB gain** **915MHz antennas** for improved transmission and reception over challenging terrain.  
+
+### **Costs and Requirements:**  
+- Estimated price range: **$250 to $500** per node.  
+- Nodes will serve as key infrastructure points, enhancing the mesh network's reliability and coverage in critical areas.
+
+By strategically placing these nodes on high ground, we can ensure robust, off-grid communication throughout the canyon network! 📡🏞️  
+
 
 
 
