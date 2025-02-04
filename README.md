@@ -20,6 +20,23 @@ To **unite our community** by building and maintaining an **alternate, secure co
 
 ---
 
+### 📶 **How Meshtastic Works**  
+
+Meshtastic is a long-range, open-source communication network designed to work without traditional cell towers or internet access. Here's how it works:
+
+1. **Device-to-Device Communication**:  
+   Meshtastic devices form a mesh network, meaning messages can hop from one device to another until they reach their destination. This allows communication over large distances, even in remote areas, by relaying messages through multiple devices.  
+
+2. **Unlicensed ISM Band Usage**:  
+   Meshtastic operates on the **Industrial, Scientific, and Medical (ISM)** band, which is free to use and does **not require a license**. In the United States, Meshtastic devices typically use the **915 MHz** frequency. This frequency offers a good balance of range and penetration through obstacles like buildings and trees.  
+
+3. **Power & Range**:  
+   Devices can legally transmit up to **1 watt (30 dBm)** of power on the ISM band, providing significant coverage even in remote areas. The mesh network extends communication by allowing each device to act as a relay, further increasing the range of the system.
+
+Meshtastic is a perfect solution for outdoor enthusiasts, emergency responders, and communities looking to maintain communication when traditional networks are unavailable. 🌐📡
+
+---
+
 ## 📍 **Coverage Goals**  
 
 ### **Phase 1:** Trabuco Canyon populated areas  
@@ -83,14 +100,6 @@ By placing repeaters, we can strengthen coverage across the canyon and beyond!
 - **Live this week!**  
 - Successful tests have enabled conversations across **Orange County**.  
 - Focused on building reliable communication throughout **Trabuco Canyon**.
-
----
-
-## 🚀 **Getting Started**  
-1. Purchase a **Meshtastic-compatible** device.  
-   👉 [Heltec V3 running Meshtastic by Ukielab](https://www.etsy.com/listing/1718195697/heltec-v3-running-meshtastic-by-ukielab)  
-2. Download the **Meshtastic app** for **iOS** or **Android**.  
-3. Connect your device via Bluetooth and start communicating! 📲  
 
 ---
 
