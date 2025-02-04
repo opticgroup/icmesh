@@ -103,3 +103,13 @@ By placing repeaters, we can strengthen coverage across the canyon and beyond!
 | **Contingency**      | 🎙️ **GMRS**                  | General Mobile Radio Service (requires license), for family or local communication.              | Easy to use, better range than FRS     | Requires GMRS license, non-encrypted   |
 | **Emergency**        | 📻 **HF Ham Radio**          | High-frequency amateur radio for long-range emergency communication.                            | Global range, robust in emergencies    | License needed, complex equipment      |
 | **Emergency**        | 🛰️ **Satellite**             | Satellite communication (e.g., Starlink, Iridium) for critical off-grid communication.           | Global coverage, reliable in remote areas | Expensive, limited message capacity  |
+
+---
+
+### 🤝🌐 **Support & Learn from SoCal Mesh!**  
+
+We're proud to support and learn from our friends at **[SoCal Mesh](https://socalmesh.org)**! 🛠️ They're building a resilient, community-driven communication network across Southern California using open-source technologies like **Meshtastic**. 🏞️
+
+Whether you're passionate about decentralized networks, emergency communications, or just want to connect with like-minded tech enthusiasts, **SoCal Mesh** is the place to be!  
+
+👉 **[Join their Discord community here](https://discord.gg/N5sXGwb5)** to collaborate, share ideas, and make a difference! 💬📡
