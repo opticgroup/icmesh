@@ -105,9 +105,9 @@ This allows **off-grid** communication across any connected nodes. Perfect for u
 We're looking for:  
 - **Nerds, hardware hackers, and radio enthusiasts** 🎙️ to help expand the network with hardware and write code to faciliate network resilancy.
 - **Volunteers** to place **routers** on their property 🏠 to improve coverage. Ideal spots have good line-of-sight to neighboring areas and our router nodes.
-- **Advocated** to spread TCMESH and setup new users
-- **Host a Fund Raiser** - we are looking to raise a minimum of $1,000 through a resaurant fund raiser.  If you have experience doing this, please reach us on the mesh network.
-- **Community Leaders** - find funds to buy turn key nodes and work with neighbors to place nodes with high propery elevation that can see a dense population of neighbors.
+- **Advocates** to spread the word and get more community members involved.
+- **Host a Fund Raiser** - with a restaurent willing to share revenue with TCMESH.  We would like to raise $1,000 to build our initial future router network below.
+- **Community Leaders** - to find funds, work with goverment agencies, and continue the investment of buying turn key nodes to place at ideal property locations. 
 
 By placing routers and nodes throughout the area, we can strengthen coverage across the canyon and beyond!  
 
@@ -136,7 +136,7 @@ During the net, we will:
 2. **Expose Coverage Issues** 📶 – Identify weak spots and areas that need improvement.  
 3. **Teach & Learn** 🧑‍🏫 – Share knowledge with new users, answer questions, and provide demos.  
 4. **Ensure Network Health** ⚙️ – Confirm that devices are functioning properly and the network is stable.
-5. **Use Facebook Chat** 💬 - As a reliable mode of communication to help others that cannot reach TCMESH (yet).
+5. **Use Facebook Chat** 💬 - To relay mesh results in real time. 
 
 Regular participation helps us keep TC Mesh reliable and ready for when we need it most.   Whether you're a beginner or an experienced user, your involvement makes a difference! 🤝  
 
@@ -219,3 +219,9 @@ To ensure a positive, inclusive, and respectful environment for all users, the f
    Place routers in areas with owner, goverment, and city permission.  Avoid "rougue" installations to maintain **TCMESH** integrity within the community and our local goverment.
 
 Together, we can maintain a respectful, safe, and enjoyable space on **TCMESH**! 🤝🌐  
+
+---
+
+### ⚠️ Disclaimer ⚠️
+
+TCMESH, its members, and nodes make no guarantees regarding the reliability of communication within the network. While TCMESH aims to provide a stable, off-grid communication system, it operates on a best-effort basis and will experience disruptions. The network's stability will improve over time through community contributions, but users should expect issues. By participating, you acknowledge that TCMESH is not liable for any failed communications, loss of property, injury, etc.  Do your own research and use at your own risk.
