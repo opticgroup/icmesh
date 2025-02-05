@@ -7,6 +7,7 @@ Welcome to **TCMESH**, a community-driven project to create a **peer-to-peer enc
 To **unite our community** by building and maintaining an **alternate, secure communication network** for **curiosity, connection, and emergency preparedness**.  
 This network ensures we stay connected during critical events such as **fires**, **fallen poles**, and **flooding**, without relying on traditional infrastructure like **SCE power**, **internet**, or **cell towers**. 🌐📡  
  
+![Community Example](images/community-example.jpg)
 
 ---
 
@@ -20,6 +21,8 @@ This network ensures we stay connected during critical events such as **fires**,
 6. **Join TCMESH**: This is a work in progress but we have created an encrypted channeled called **TCMESH** which you can configure here 👉 [Join TCMESH](https://meshtastic.org/e/?add=true#ChASAUwaBlRDTUVTSCUBAAAAEg8IATgBQAVIAVAeaAHABgE)  (untested)
 
 📖 **For detailed instructions**, see our full guide: [INSTALLGUIDE.md](INSTALLGUIDE.md)  
+
+![Device Example](images/helltechv3.webp)
 
 ---
 
