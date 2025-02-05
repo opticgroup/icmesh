@@ -25,7 +25,9 @@ Meshtastic is a long-range, open-source communication network designed to functi
 4. **Power & Range**:  
    Devices can legally transmit up to **1 watt (30 dBm)** of power on the ISM band, providing significant coverage even in remote areas. The mesh network's relaying capabilities further extend its range by passing messages through intermediate nodes.
 
-TCMESH has chosen Meshtastic as it is well adopted, easy to use, and able to communicate both locally and over long distances when configured properly. 🌐📡.  Notice how Bobby can talk to Jack, even through they aren't close to each other and weather has cut off Jack from Bobby.
+TCMESH has chosen Meshtastic as it is well adopted, easy to use, and able to communicate both locally and over long distances when configured properly. 🌐📡.  
+
+Notice how Bobby can talk to Jack, even through they aren't close to each other and weather has cut off Jack from Bobby.
  
 ![Community Example](images/community-example.jpg)
 
