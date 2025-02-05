@@ -54,8 +54,8 @@ TCMESH has chosen Meshtastic as it is well adopted, easy to use, and able to com
 
 ### **Phase 2:** Extended areas of Trabuco Canyon 🌐  
 - Continue to cover Trabuco Oaks Drive (highly populated)
-- General Store
-- Rosa Cantina (popular meeting place)
+- General Store (popular meeting place)
+- Rosa's Cantina (popular meeting place)
 - Windy Ridge (additional coverage for homes half way up TOD)
 - End of TOD (we have a TCMESH member that will cover the back of TOD)
 - **Holy Jim** 🔥 to the **Flying Field** 🛩️ and the **Cabins** (future expansion)  
