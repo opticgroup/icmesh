@@ -48,14 +48,14 @@ TCMESH has chosen Meshtastic as it is well adopted, easy to use, and able to com
 
 ## 📍 **Coverage Goals**  
 
-### **Phase 1:** 
+### **Phase 1:** Establish Network 🎬
 - **Cooks Corner** 🏍️  
 - **Live Oaks Grade** 🛣️
 - **Hamilton Trail** 🏡  
 - **Trabuco Oaks Drive** 🌲
 - Why? A few of us already active on TCMESH have established line of sight between these areas. They simply serve as a jumping off point to get the network established.
 
-### **Phase 2:** Extended areas of Trabuco Canyon 🌐  
+### **Phase 2:** Extend into additional areas of Trabuco Canyon 🌐  
 - Continue to cover Trabuco Oaks Drive (highly populated)
 - General Store (popular meeting place)
 - Rosa's Cantina (popular meeting place)
@@ -64,7 +64,7 @@ TCMESH has chosen Meshtastic as it is well adopted, easy to use, and able to com
 - **Holy Jim** 🔥 to the **Flying Field** 🛩️ and the **Cabins** (future expansion)  
 - Take user reports (via facebook) of nodes that cannot connect and design around this limitation
 
-### **Phase 3:** Surrounding canyons and communities 🏞️  
+### **Phase 3:** Connect surrounding canyons and communities 🏞️  
 - Goal:  Find and promote stakeholders in other canyons that can extend the TCMESH to the following canyons:
 - **Modjeska Canyon**  
 - **Silverado Canyon**  
@@ -75,9 +75,9 @@ The goal is to create a best effort, **encrypted off-grid communication** throug
 
 ---
 
-## 🌄 **Extending Range with High-Elevation Nodes**
+## 🌄 **Extending Range with High-Elevation Router Nodes**
 
-To expand **TCMESH** coverage across **Trabuco Canyon** and connect neighboring canyons, we are deploying **high-elevation, solar-powered, remote-configurable nodes**. These specialized nodes are designed to repeat traffic quickly, bridging communication between different areas.  For the tech nerds, they will be carefully selected to act in meshtastic = router mode.
+To expand **TCMESH** coverage across **Trabuco Canyon** and connect neighboring canyons, we are deploying **high-elevation, solar-powered, remote-configurable router nodes**. These specialized nodes are designed to repeat traffic quickly, bridging communication between different areas.
 
 ### **Key Features:**  
 - 📡 **Long-range distance:** Equipped with **tuned antennas** to maximize coverage across rugged terrain.  
@@ -100,7 +100,7 @@ This allows **off-grid** communication across any connected nodes. Perfect for u
 ## 🤝 **We Need Your Help!**  
 We're looking for:  
 - **Nerds, hardware hackers, and radio enthusiasts** 🎙️ to help expand the network with hardware and write code to faciliate network resilancy.
-- **Volunteers** to place **routers** on their property 🏠 to improve coverage. Ideal spots have good line-of-sight to neighboring areas.
+- **Volunteers** to place **routers** on their property 🏠 to improve coverage. Ideal spots have good line-of-sight to neighboring areas and our router nodes.
 - **Advocated** to spread TCMESH and setup new users
 - **Host a Fund Raiser** - we are looking to raise a minimum of $1,000 through a resaurant fund raiser.  If you have experience doing this, please reach us on the mesh network.
 - **Community Leaders** - find funds to buy turn key nodes and work with neighbors to place nodes with high propery elevation that can see a dense population of neighbors.
@@ -110,9 +110,9 @@ By placing routers and nodes throughout the area, we can strengthen coverage acr
 ---
 
 ## ✅ **Current Progress**  
-- **Our first solar powered node** will go live the week of February 10th, 2025
-- Successful tests have already occured from Hamilton trail reaching from San Clemente to Orange.
-- This Wiki 😃
+- **Our first solar powered node** will go live the week of February 10th, 2025.
+- Successful tests have already occured from Hamilton Trail reaching as far as San Clemente and Anaheim.
+- This website 😃
 
 ---
 
@@ -121,18 +121,18 @@ By placing routers and nodes throughout the area, we can strengthen coverage acr
 We're excited to invite all TC Mesh users to our **Weekly Net**! 🎉 This is a great opportunity for us to stay connected, practice using TCMESH, and ensure the network is operating smoothly.
 
 🕕 **When:** Every Tuesday at **6:00 PM PT**  
-📡 **Where:** Primary Channel 0
+📡 **Where:** Primary Channel 0 on Meshtastic in Trabuco Canyon, CA.
 
 During the net, we will:  
 1. **Trade Messages** 💬 – Test and communicate with others on the network.  
 2. **Expose Coverage Issues** 📶 – Identify weak spots and areas that need improvement.  
 3. **Teach & Learn** 🧑‍🏫 – Share knowledge with new users, answer questions, and provide demos.  
 4. **Ensure Network Health** ⚙️ – Confirm that devices are functioning properly and the network is stable.
-5. **Use Facebook Chat** 💬 - As a reliable mode of communication to help others that cannot reach TCMESH (yet)
+5. **Use Facebook Chat** 💬 - As a reliable mode of communication to help others that cannot reach TCMESH (yet).
 
 Regular participation helps us keep TC Mesh reliable and ready for when we need it most.   Whether you're a beginner or an experienced user, your involvement makes a difference! 🤝  
 
-See you every Tuesday! Let's keep building and improving together! 🌐✨  
+See you every Tuesday at 6PM! Let's keep building and improving together! 🌐✨  
 
 ---
 
