@@ -24,8 +24,7 @@ Download and install the **Meshtastic** app from your device's app store:
 1. Open the **Meshtastic** app on your phone.
 2. Tap the **Menu (☰)** icon and select **Channels**.
 3. Tap **Add Channel** and choose **Scan QR Code**.
-4. Use your phone’s camera to scan the **TCMESH Channel QR Code**:  
-   👉 [Click Here to Join TCMESH](https://meshtastic.org/e/#ChASAUwaBlRDTUVTSCUBAAAAEg8IATgBQAVIAVAeaAHABgE)
+4. 👉 [Click Here to Join TCMESH](https://meshtastic.org/e/#ChASAUwaBlRDTUVTSCUBAAAAEg8IATgBQAVIAVAeaAHABgE) (untested don't click yet)
 
 ---
 
@@ -40,8 +39,8 @@ To help the network with data sharing and tracking, enable **MQTT** uploads:
 
 ## **Step 5: Configure Your User Settings**  
 1. In the app, navigate to **Settings** > **User**.
-2. Set your **Short Name** (e.g., "NickN").
-3. Set your **Long Name** to include **TCMESH** in **ALL CAPS** (e.g., "Nick Newsom - TCMESH").
+2. Set your **Short Name** (e.g., "BUNY") - Can be up to 4 characters or a single emoji
+3. Set your **Long Name** to include **TCMESH** in **ALL CAPS** (e.g., "BUNY - TCMESH").
    - This ensures your device will show up in network logs and on future real-time maps.
 
 ---
@@ -65,3 +64,5 @@ To optimize battery life and data usage, adjust your device’s **prevision sett
 Congratulations! 🎉 You're now part of the **TCMESH** network. Feel free to reach out if you encounter issues or need support.  
 
 Stay connected and help us build a strong, resilient off-grid network for **Trabuco Canyon**! 🌄📡
+
+Note:  This guide needs to be built out so that it is step by step for new users.
