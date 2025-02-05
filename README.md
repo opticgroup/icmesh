@@ -44,6 +44,8 @@ Notice how Bobby can talk to Jack, even through they aren't close to each other 
 
 📖 **For detailed instructions**, see our full guide: [INSTALLGUIDE.md](INSTALLGUIDE.md)  
 
+You can carry this device in your pocket for about $70
+
 ![Device Example](images/helltechv3.webp)
 
 ---
