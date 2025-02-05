@@ -74,7 +74,7 @@ The goal is to create a best effort, **encrypted off-grid communication** throug
 
 ## 🌄 **Extending Range with High-Elevation Nodes**
 
-To expand **TCMESH** coverage across **Trabuco Canyon** and connect neighboring canyons, we are deploying **high-elevation, solar-powered, remote-configurable nodes**. These specialized nodes are designed to act as **point-to-point routers**, bridging communication between different areas.  For the tech nerds, they will be carefully selected to act as "routers"
+To expand **TCMESH** coverage across **Trabuco Canyon** and connect neighboring canyons, we are deploying **high-elevation, solar-powered, remote-configurable nodes**. These specialized nodes are designed to repeat traffic quickly, bridging communication between different areas.  For the tech nerds, they will be carefully selected to act in meshtastic = router mode.
 
 ### **Key Features:**  
 - 📡 **Long-range distance:** Equipped with **tuned antennas** to maximize coverage across rugged terrain.  
