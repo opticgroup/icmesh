@@ -52,17 +52,13 @@ TCMESH has chosen Meshtastic as it is well adopted, easy to use, and able to com
 - **Trabuco Oaks Drive** 🌲
 - Why? A few of us already active on TCMESH have established line of sight between these areas. They simply serve as a jumping off point to get the network established.
 
-
--
-- Rosa Cantina Restaurant**, **Windy Ridge**, and connected streets   
-- **Holy Jim** 🔥 to the **Flying Field** 🛩️ and the **Cabins** (future expansion)  
-
 ### **Phase 2:** Extended areas of Trabuco Canyon 🌐  
 - Continue to cover Trabuco Oaks Drive (highly populated)
 - General Store
 - Rosa Cantina (popular meeting place)
 - Windy Ridge (additional coverage for homes half way up TOD)
 - End of TOD (we have a TCMESH member that will cover the back of TOD)
+- **Holy Jim** 🔥 to the **Flying Field** 🛩️ and the **Cabins** (future expansion)  
 - Take user reports (via facebook) of nodes that cannot connect and design around this limitation
 
 ### **Phase 3:** Surrounding canyons and communities 🏞️  
