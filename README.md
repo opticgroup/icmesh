@@ -27,7 +27,7 @@ Meshtastic is a long-range, open-source communication network designed to functi
 
 TCMESH has chosen Meshtastic as it is well adopted, easy to use, and able to communicate both locally and over long distances when configured properly. 🌐📡.  
 
-Notice how Bobby can talk to Jack, even through they aren't close to each other and weather has cut off Jack from Bobby.
+Notice how Bobby can talk to Jack, even through they aren't close to each other and weather has blocked Bobby from a portion of the network.
  
 ![Community Example](images/community-example.jpg)
 
