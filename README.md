@@ -11,7 +11,7 @@ This network ensures we stay connected during critical events such as **fires**,
 
 ### 📶 **How Meshtastic Works**  
 
-Meshtastic is a long-range, open-source communication network designed to function without traditional cell towers or internet access. It is highly resilient and designed to avoid single points of failure. Here's how it works:
+Meshtastic (aka Lora) is a long-range, open-source communication network designed to function without traditional cell towers or internet access. It is highly resilient and designed to avoid single points of failure. Here's how it works:
 
 1. **Device-to-Device Communication**:  
    Meshtastic devices form a decentralized mesh network, where messages hop from one device to another until they reach their destination. This allows communication over large distances, even in remote areas, by relaying messages through multiple devices.  
