@@ -5,24 +5,7 @@ Welcome to **TCMESH**, a community-driven project to create a **peer-to-peer enc
 ### 🚨 **Our Mission**  
 
 To **unite our community** by building and maintaining an **alternate, secure communication network** for **curiosity, connection, and emergency preparedness**.  
-This network ensures we stay connected during critical events such as **fires**, **fallen poles**, and **flooding**, without relying on traditional infrastructure like **SCE power**, **internet**, or **cell towers**. 🌐📡  
- 
-![Community Example](images/community-example.jpg)
-
----
-
-## ⚙️ **Quick Start**  
-
-1. **Get a Device**: Starting at **~$60** 👉 [Etsy Store](https://www.etsy.com/people/i9v8id6n/favorites/tcmesh-meshtastic-turn-key-devices)  
-2. **Install the App:** [Download the Meshtastic app on iOS (App Store)](https://apps.apple.com/us/app/meshtastic/id1586432531) or [Android (Google Play)](https://play.google.com/store/apps/details?id=com.geeksville.mesh&pcampaignid=web_share). 📲  
-3. **Connect Your Phone**: Use your **iPhone** or **Android** to connect via **Bluetooth** to your Meshtastic device.
-4. **Configure your device**: Please use any short name you want.  For example mine is shortname: 🦅 long name: EAGLE TCMESH. **Important** use TCMESH in your long name so we can include your anonymized location on our future TCMESH map.
-5. **Join the Network**: Once connected, your device will automatically communicate with other nodes on the mesh.  We use the default primary channel in So Cal.
-6. **Join TCMESH**: This is a work in progress but we have created an encrypted channeled called **TCMESH** which you can configure here 👉 [Join TCMESH](https://meshtastic.org/e/?add=true#ChASAUwaBlRDTUVTSCUBAAAAEg8IATgBQAVIAVAeaAHABgE)  (untested)
-
-📖 **For detailed instructions**, see our full guide: [INSTALLGUIDE.md](INSTALLGUIDE.md)  
-
-![Device Example](images/helltechv3.webp)
+This network ensures we stay connected during critical events such as **fires**, **fallen poles**, and **flooding**, without relying on traditional infrastructure like **SCE power**, **internet**, or **cell towers**. 🌐📡
 
 ---
 
@@ -43,6 +26,23 @@ Meshtastic is a long-range, open-source communication network designed to functi
    Devices can legally transmit up to **1 watt (30 dBm)** of power on the ISM band, providing significant coverage even in remote areas. The mesh network's relaying capabilities further extend its range by passing messages through intermediate nodes.
 
 TCMESH has chosen Meshtastic as it is well adopted, easy to use, and able to communicate both locally and over long distances when configured properly. 🌐📡  
+ 
+![Community Example](images/community-example.jpg)
+
+---
+
+## ⚙️ **Quick Start**  
+
+1. **Get a Device**: Starting at **~$60** 👉 [Etsy Store](https://www.etsy.com/people/i9v8id6n/favorites/tcmesh-meshtastic-turn-key-devices)  
+2. **Install the App:** [Download the Meshtastic app on iOS (App Store)](https://apps.apple.com/us/app/meshtastic/id1586432531) or [Android (Google Play)](https://play.google.com/store/apps/details?id=com.geeksville.mesh&pcampaignid=web_share). 📲  
+3. **Connect Your Phone**: Use your **iPhone** or **Android** to connect via **Bluetooth** to your Meshtastic device.
+4. **Configure your device**: Please use any short name you want.  For example mine is shortname: 🦅 long name: EAGLE TCMESH. **Important** use TCMESH in your long name so we can include your anonymized location on our future TCMESH map.
+5. **Join the Network**: Once connected, your device will automatically communicate with other nodes on the mesh.  We use the default primary channel in So Cal.
+6. **Join TCMESH**: This is a work in progress but we have created an encrypted channeled called **TCMESH** which you can configure here 👉 [Join TCMESH](https://meshtastic.org/e/?add=true#ChASAUwaBlRDTUVTSCUBAAAAEg8IATgBQAVIAVAeaAHABgE)  (untested)
+
+📖 **For detailed instructions**, see our full guide: [INSTALLGUIDE.md](INSTALLGUIDE.md)  
+
+![Device Example](images/helltechv3.webp)
 
 ---
 
