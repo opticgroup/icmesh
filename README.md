@@ -111,6 +111,10 @@ We're looking for:
 
 By placing routers and nodes throughout the area, we can strengthen coverage across the canyon and beyond!  
 
+Current and "possible" future locations with owner permission
+
+![Future Proposed Locations](images/future-network.png)
+
 ---
 
 ## ✅ **Current Progress**  
