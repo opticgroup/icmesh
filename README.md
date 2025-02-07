@@ -223,6 +223,6 @@ Together, we can maintain a respectful, safe, and enjoyable space on **TCMESH**!
 
 ---
 
-### ⚠️ Disclaimer ⚠️
+### ⚠️ Disclaimer ⚠️ 
 
 TCMESH, its members, and nodes make no guarantees regarding the reliability of communication within the network. While TCMESH aims to provide a stable, off-grid communication system, it operates on a best-effort basis and will experience disruptions. The network's stability will improve over time through community contributions, but users should expect issues. By participating, you acknowledge that TCMESH is not liable for any failed communications, loss of property, injury, etc.  Do your own research and use at your own risk.
