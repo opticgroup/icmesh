@@ -114,6 +114,7 @@ By placing routers and nodes throughout the area, we can strengthen coverage acr
 Current and "possible" future router or major node locations
 
 ![Future Proposed Locations](images/future-network.png)
+- Key (Black pins are locations we would like to place, green is we have owner permission)
 
 ---
 
