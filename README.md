@@ -113,7 +113,7 @@ By placing routers and nodes throughout the area, we can strengthen coverage acr
 
 Current and "possible" future router or major node locations
 
-![Future Proposed Locations](images/future-nework.png)
+![Future Proposed Locations](images/future-network.png)
 
 ---
 
