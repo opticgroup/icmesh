@@ -73,7 +73,13 @@ You can carry this device in your pocket for about $70
 - **Modjeska Canyon**  
 - **Silverado Canyon**  
 - **Williams Canyon**  
-- **Black Star Canyon**  
+- **Black Star Canyon**
+
+![Future Proposed Locations](images/future-network.png)
+| 🟢   | 🟡   | ⚫   |
+|------|------|------|
+| Operational | Planned | Wanted |
+
 
 The goal is to create a best effort, **encrypted off-grid communication** throughout the entire canyon region! 📡  
 
@@ -108,13 +114,6 @@ We're looking for:
 - **Advocates** to spread the word and get more community members involved.
 - **Host a Fund Raiser** - with a restaurent willing to share revenue with TCMESH.  We would like to raise $1,000 to build our initial future router network below.
 - **Community Leaders** - to find funds, work with goverment agencies, and continue the investment of buying turn key nodes to place at ideal property locations. 
-
-By placing routers and nodes throughout the area, we can strengthen coverage across the canyon and beyond!  
-
-Current and "possible" future router or major node locations
-
-![Future Proposed Locations](images/future-network.png)
-- Key (Black pins are locations we would like to place, green is we have owner permission)
 
 ---
 
