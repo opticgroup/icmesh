@@ -70,6 +70,8 @@ Example: Notice how Bobby can talk to Jack, even through they aren't close to ea
 
 The goal is to create a best effort, **encrypted off-grid communication** throughout the entire canyon region! 📡  
 
+View our ![Extended Range Plan](EXTENDED-RANGE.md)
+
 ---
 
 ## 🤝 **We Need Your Help!**  
