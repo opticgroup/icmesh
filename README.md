@@ -41,8 +41,6 @@ Example: Notice how Bobby can talk to Jack, even though they are blocked from di
 
 📖 **For detailed instructions**, see our full guide: [INSTALLGUIDE.md](INSTALLGUIDE.md)  // Needs update
 
-[Join our Facebook Chat](https://m.me/ch/AbZCRRHT38CXy0zt/)
-
 ![Device Example](images/sensecap.png)
 
 ---
@@ -192,7 +190,20 @@ To ensure a positive, inclusive, and respectful environment for all users, the f
 Together, we can maintain a respectful, safe, and enjoyable space on **TCMESH**! 🤝🌐  
 
 ---
+## 📢 **Spread the Word!**
 
+### 📱 **Join the TCMESH Community!**
+Have your friend scan this code to access this TCMESH page! 🤝
+
+[![QR Code](qrcode-to-tcmesh.png)](https://github.com/opticgroup/tcmesh)
+
+### 💬 **Join the Conversation!**
+Want to connect with fellow community members? Click the link to join our Facebook chat and stay in the loop or get help! 💬
+
+[Join our Facebook Chat](https://m.me/ch/AbZCRRHT38CXy0zt/)
+
+
+---
 ### ⚠️ Disclaimer ⚠️ 
 
 TCMESH, its members, and nodes make no guarantees regarding the reliability of communication within the network. While TCMESH aims to provide a stable, off-grid communication system, it operates on a best-effort basis and will experience disruptions. The network's stability will improve over time through community contributions, but users should expect issues. By participating, you acknowledge that TCMESH is not liable for any failed communications, loss of property, injury, etc.  Do your own research and use at your own risk.
