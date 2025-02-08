@@ -33,22 +33,19 @@ Example: Notice how Bobby can talk to Jack, even through they aren't close to ea
 
 ## ⚙️ **Quick Start**  
 
-1. **Get a Device**: Starting at **~$60** 👉 [Etsy Store](https://www.etsy.com/people/i9v8id6n/favorites/tcmesh-meshtastic-turn-key-devices)  
+1. **Get a Device**: 👉 Starting at $40 and great for walking around the [SenseCap Tracker T1000-E](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html) or browse higher powered nodes and solar repeaters starting at $60 [Etsy Store](https://www.etsy.com/people/i9v8id6n/favorites/tcmesh-meshtastic-turn-key-devices)  
 2. **Install the App:** [Download the Meshtastic app on iOS (App Store)](https://apps.apple.com/us/app/meshtastic/id1586432531) or [Android (Google Play)](https://play.google.com/store/apps/details?id=com.geeksville.mesh&pcampaignid=web_share). 📲  
-3. **Connect Your Phone**: Use your **iPhone** or **Android** to connect via **Bluetooth** to your Meshtastic device.
-4. **Configure your device**: Please use any short name you want.  For example mine is shortname: 🦅 long name: EAGLE TCMESH. **Important** use TCMESH in your long name so we can include your anonymized location on our future TCMESH map.
-5. **Join the Network**: Once connected, your device will automatically communicate with other nodes on the mesh.  We use the default primary channel in So Cal.
-6. **Join TCMESH**: This is a work in progress but we have created an encrypted channeled called **TCMESH** which you can configure here 👉 [Join TCMESH](https://meshtastic.org/e/?add=true#ChASAUwaBlRDTUVTSCUBAAAAEg8IATgBQAVIAVAeaAHABgE)  (untested)
+3. **Connect Your Phone**: Use your **iPhone** or **Android** and select your new shiny Meshtastic device via **bluetooth**.
+4. **Configure your device**: Go to meshtastic app, settings, user, and choose any shortname and long name you want.  For example mine is shortname: 🦅 long name: EAGLE - TCMESH. **Important** use TCMESH in your long name so we can include your anonymized location on our future TCMESH map.
+5. **Join the Network**: Once connected, your device will automatically communicate with other nodes on the mesh.  Go to messages and chat in the primary channel or go to nodes and private message (**encrypted**) with any node in the network. 
 
-📖 **For detailed instructions**, see our full guide: [INSTALLGUIDE.md](INSTALLGUIDE.md)  
-
-You can carry this device in your pocket for about $40
+📖 **For detailed instructions**, see our full guide: [INSTALLGUIDE.md](INSTALLGUIDE.md)  // Needs update
 
 ![Device Example](images/sensecap.png)
 
 ---
 
-## 📍 **Coverage Goals**  
+## 📍 **Coverage Map**  
 
 ### **Phase 1:** Establish Network 🎬
 - **Live Oaks Grade** 🛣️
@@ -57,7 +54,7 @@ You can carry this device in your pocket for about $40
 - **Robinson Ranch** 🧑‍🌾
 
 ### **Phase 2:** Extend into additional areas of Trabuco Canyon 🌐  
-- More coverage on Trabuco Oaks Drive, Mountain View, Windy Ridge, Rosas
+- More coverage on Trabuco Oaks Drive, Mountain View, Windy Ridge, Rosas Cantina 🌮
 - Permanent node at the General Store
 - **Holy Jim** 🔥 to the **Flying Field** 🛩️ with the **Cabins** 🛖 as a long term goal
 
@@ -72,28 +69,6 @@ You can carry this device in your pocket for about $40
 
 
 The goal is to create a best effort, **encrypted off-grid communication** throughout the entire canyon region! 📡  
-
----
-
-## 🌄 **Extending Range with High-Elevation Router Nodes**
-
-To expand **TCMESH** coverage across **Trabuco Canyon** and connect neighboring canyons, we are deploying **high-elevation, solar-powered, remote-configurable router nodes**. These specialized nodes are designed to repeat traffic quickly, bridging communication between different areas.
-
-### **Key Features:**  
-- 📡 **Long-range distance:** Equipped with **tuned antennas** to maximize coverage across rugged terrain.  
-- ☀️ **Solar-powered:** Ensures continuous operation without relying on external power sources.  
-- 🔧 **Remote-configurable:** We will use remote administration public keys to manage these nodes to update software and maintain optimal performance.  
-- 🌐 **Inter-canyon connectivity:** Facilitates best effort communication between **Trabuco Canyon**, **Modjeska**, **Silverado**, **Williams**, and **Black Star Canyons**.  
-- 📻 **Station G2 radios for extended range:** Uses **higher-output radios** with **tuned receivers and transmitters**, optimized to reach longer distances.  
-  - Equipped with **5-7dB gain** **915MHz antennas** for improved transmission and reception over challenging terrain.  We will carefully consider use of omni-direction vs. yagi antennas and are also researching how to combine both a yagi and omni node to provide this bridge.
-
-### **Costs to build a router:**  
-- Estimated build price: DIY **$150** or turn-key **$250** to **$450** per node.
-- Nodes will serve as key infrastructure points, linking seperate communities, enhancing the mesh network's reliability and coverage.
-
-By strategically placing these nodes on high ground, we can ensure robust, off-grid communication throughout the canyon network! 📡🏞️  
-
-This allows **off-grid** communication across any connected nodes. Perfect for use in natural disasters, areas with poor reception, or for tech enthusiasts looking to experiment with mesh networking. 🛰️  
 
 ---
 
