@@ -53,27 +53,19 @@ You can carry this device in your pocket for about $70
 ## 📍 **Coverage Goals**  
 
 ### **Phase 1:** Establish Network 🎬
-- **Cooks Corner** 🏍️  
 - **Live Oaks Grade** 🛣️
 - **Hamilton Trail** 🏡  
 - **Trabuco Oaks Drive** 🌲
-- Why? A few of us already active on TCMESH have established line of sight between these areas. They simply serve as a jumping off point to get the network established.
+- **Robinson Ranch** 🧑‍🌾
 
 ### **Phase 2:** Extend into additional areas of Trabuco Canyon 🌐  
-- Continue to cover Trabuco Oaks Drive (highly populated)
-- General Store (popular meeting place)
-- Rosa's Cantina (popular meeting place)
-- Windy Ridge (additional coverage for homes half way up TOD)
-- End of TOD (we have a TCMESH member that will cover the back of TOD)
-- **Holy Jim** 🔥 to the **Flying Field** 🛩️ and the **Cabins** (future expansion)  
-- Take user reports (via facebook) of nodes that cannot connect and design around this limitation
+- More coverage on Trabuco Oaks Drive, Mountain View, Windy Ridge, Rosas
+- Permanent node at the General Store
+- **Holy Jim** 🔥 to the **Flying Field** 🛩️ with the **Cabins** 🛖 as a long term goal
 
 ### **Phase 3:** Connect surrounding canyons and communities 🏞️  
 - Goal:  Find and promote stakeholders in other canyons that can extend the TCMESH to the following canyons:
-- **Modjeska Canyon**  
-- **Silverado Canyon**  
-- **Williams Canyon**  
-- **Black Star Canyon**
+- **Modjeska Canyon**, **Silverado Canyon**, **Williams Canyon**, **Black Star Canyon**
 
 ![Future Proposed Locations](images/future-network.png)
 | 🟢   | 🟡   | ⚫   |
