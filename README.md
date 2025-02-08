@@ -67,12 +67,7 @@ Example: Notice how Bobby can talk to Jack, even though they are blocked from di
 |------|------|------|
 | Operational | Planned | Wanted |
 
-[Future Goals of the Mesh](FUTURE-GOALS.md)
-
-
-The goal is to create a best effort, **encrypted off-grid communication** throughout the entire canyon region! 📡  
-
-View our [Extended Range Plan](EXTENDED-RANGE.md)
+View our [Extended Range Plan](EXTENDED-RANGE.md) and the [Future Goals of the Mesh](FUTURE-GOALS.md)
 
 ---
 
