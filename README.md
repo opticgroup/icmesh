@@ -25,7 +25,7 @@ Meshtastic (aka Lora Mesh Networking) is a long-range, open-source communication
 4. **Power & Range**:  
    Devices can transmit up to 1 watt (30 dBm) ⚡ of power, providing extensive coverage 🌍, with the network’s relaying further extending its range 📶.
 
-Example: Notice how Bobby can talk to Jack, even through they aren't close to each other (Bobby is blocked due to weather and houses). 
+Example: Notice how Bobby can talk to Jack, even though they are blocked from direct line of sight. 
  
 ![Community Example](images/community-example.jpg)
 
@@ -40,6 +40,8 @@ Example: Notice how Bobby can talk to Jack, even through they aren't close to ea
 5. **Join the Network**: Once connected, your device will automatically communicate with other nodes on the mesh.  Go to messages and chat in the primary channel or go to nodes and private message (**encrypted**) with any node in the network. 
 
 📖 **For detailed instructions**, see our full guide: [INSTALLGUIDE.md](INSTALLGUIDE.md)  // Needs update
+
+[Join our Facebook Chat](https://m.me/ch/AbZCRRHT38CXy0zt/)
 
 ![Device Example](images/sensecap.png)
 
@@ -70,22 +72,24 @@ Example: Notice how Bobby can talk to Jack, even through they aren't close to ea
 
 The goal is to create a best effort, **encrypted off-grid communication** throughout the entire canyon region! 📡  
 
-View our ![Extended Range Plan](EXTENDED-RANGE.md)
+View our [Extended Range Plan](EXTENDED-RANGE.md)
 
 ---
 
-## 🤝 **We Need Your Help!**  
-We're looking for:  
-- **Nerds, hardware hackers, and radio enthusiasts** 🎙️ to help expand the network with hardware and write code to faciliate network resilancy.
-- **Volunteers** to place **routers** on their property 🏠 to improve coverage. Ideal spots have good line-of-sight to neighboring areas and our router nodes.
-- **Advocates** to spread the word and get more community members involved.
-- **Host a Fund Raiser** - with a restaurent willing to share revenue with TCMESH.  We would like to raise $1,000 to build our initial future router network below.
-- **Community Leaders** - to find funds, work with goverment agencies, and continue the investment of buying turn key nodes to place at ideal property locations. 
+## 🤝 **We Need Your Help!**
+
+We're looking for:
+
+- **Nerds, hardware hackers, and radio enthusiasts** 🎙️ to help expand the network with hardware and code to improve network resiliency.
+- **Volunteers** to place **routers** on their property 🏠 to enhance coverage. Ideal spots are at high elevations with good line-of-sight to neighboring areas and router nodes.
+- **Advocates** to spread the word and recruit more community members.
+- **Fundraisers** – Partner with a restaurant to share revenue with TCMESH. Our goal is to raise $1,000 to build the initial router network.
+- **Community Leaders** to secure funding, collaborate with government agencies, and invest in turnkey nodes for optimal property placements. 
 
 ---
 
 ## ✅ **Current Progress**  
-- **Our first solar powered node** will go live the week of February 10th, 2025.
+- **Our first solar powered node** will go live February 2025. 
 - Successful tests have already occured from Hamilton Trail reaching as far as San Clemente and Anaheim.
 - This website 😃
 
