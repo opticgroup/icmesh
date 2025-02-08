@@ -14,7 +14,7 @@ This network ensures we stay connected during critical events such as **fires**,
 Meshtastic (aka Lora) is a long-range, open-source communication network designed to function without traditional cell towers or internet access. It is highly resilient and designed to avoid single points of failure. Here's how it works:
 
 1. **Device-to-Device Communication**:  
-   Meshtastic devices form a decentralized mesh network, where messages hop from one device to another until they reach their destination. This allows communication over large distances, even in remote areas, by relaying messages through multiple devices.  
+   Meshtastic devices form a decentralized mesh network (see below), where messages hop from one device to another until they reach their destination. This allows communication over large distances, even in remote areas, by relaying messages through multiple devices.  
 
 2. **Network Resilience (No Single Point of Failure)**:  
    If a node or router in the network goes offline, the mesh will automatically route messages through other available nodes. This redundancy ensures that the network continues operating smoothly, avoiding disruption from any single point of failure. ⚙️🔄
@@ -44,9 +44,9 @@ Notice how Bobby can talk to Jack, even through they aren't close to each other 
 
 📖 **For detailed instructions**, see our full guide: [INSTALLGUIDE.md](INSTALLGUIDE.md)  
 
-You can carry this device in your pocket for about $70
+You can carry this device in your pocket for about $40
 
-![Device Example](images/helltechv3.webp)
+![Device Example](images/sensecap.png)
 
 ---
 
