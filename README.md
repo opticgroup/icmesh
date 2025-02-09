@@ -169,7 +169,7 @@ To ensure a positive, inclusive, and respectful environment for all users, the f
    Messages promoting commercial sales, advertisements, or spam are not permitted. Let's keep the network free of unwanted promotions.
 
 6. 🪪 **Legal Placement of Routers & Nodes**:
-   Place routers in areas with owner, goverment, and city permission.  Avoid "rougue" installations to maintain **TCMESH** integrity within the community and our local goverment.
+   Place routers in areas with federal, state, city, goverment, property owner permission.  It's good practice to keep e-mail permission in your files. Avoid "rougue" installations to maintain **TCMESH** as a leading mesh network with good relationships to keep network placement safe.
 
 Together, we can maintain a respectful, safe, and enjoyable space on **TCMESH**! 🤝🌐  
 
