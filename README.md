@@ -133,7 +133,22 @@ Whether you're passionate about decentralized networks, emergency communications
 By achieving these goals, we aim to strengthen the network, foster collaboration, and ensure that **TCMESH** remains a vital, off-grid communication resource for our community! 🌐✨  
 
 ---
+### **FAQ - Frequently Asked Questions**
 
+**Do I need a license or technical knowledge?** - No license needed and the sensecap works out of the box.   
+
+**What is RSSI and SNR mean?** - Meshtastic devices provide two key metrics to evaluate signal quality: **RSSI (Received Signal Strength Indicator)** and **SNR (Signal-to-Noise Ratio)**.  
+
+- **RSSI** measures the strength of the received signal. *Fun fact: RSSI values are negative because, in the world of wireless signals, negative numbers are the cool kids—they represent small but positive numbers on a logarithmic scale. So, a -30 dBm RSSI is actually a strong signal, just with a bit of a negative attitude.*
+
+- **SNR** measures the quality of the received signal in relation to background noise. *SNR values are positive because, unlike RSSI, they represent the ratio of signal power to noise power, and ratios are typically positive numbers. Think of it as the signal saying, "I'm stronger than the noise!"*
+
+| **Metric**   | **Good**                     | **Fair**                     | **Poor**                   |
+|--------------|------------------------------|------------------------------|----------------------------|
+| **RSSI**     | 🟢 -30 dBm to -60 dBm         | 🟡 -61 dBm to -80 dBm         | 🔴 -81 dBm to -100 dBm     |
+| **SNR**      | 🟢 20 dB to 30 dB             | 🟡 10 dB to 19 dB             | 🔴 0 dB to 9 dB            |
+
+---
 ### 📜 **TCMESH Community Messaging Policy**  
 
 To ensure a positive, inclusive, and respectful environment for all users, the following guidelines apply to messaging over TC Mesh:  
