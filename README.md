@@ -121,32 +121,35 @@ See you every Tuesday at 6PM! Let's keep building and improving together! 🌐�
 | **Emergency**        | 🛰️ **Satellite**             | Satellite communication (e.g., Starlink, Iridium) for critical off-grid communication.           | Global coverage, reliable in remote areas | Expensive, limited message capacity  |
 
 ---
-
-### 🤝🌐 **Support & Learn from SoCalMesh.org!**  
-
-We're proud to support and learn from our friends at **[SoCalMesh.org](https://socalmesh.org)**! 🛠️ They're building a resilient, community-driven communication network across Southern California using Meshtastic. 🏞️
-
-Whether you're passionate about decentralized networks, emergency communications, or just want to connect with like-minded tech enthusiasts, **SoCalMesh** is the place to be!  
-
-👉 **[Join their Discord community here](https://discord.gg/N5sXGwb5)** to collaborate, share ideas, and make a difference! 💬📡
-
-By achieving these goals, we aim to strengthen the network, foster collaboration, and ensure that **TCMESH** remains a vital, off-grid communication resource for our community! 🌐✨  
-
----
-### **FAQ - Frequently Asked Questions**
+## **FAQ - Frequently Asked Questions**
 
 **Do I need a license or technical knowledge?** - No license needed and the sensecap works out of the box.   
 
 **What is RSSI and SNR mean?** - Meshtastic devices provide two key metrics to evaluate signal quality: **RSSI (Received Signal Strength Indicator)** and **SNR (Signal-to-Noise Ratio)**.  
 
-- **RSSI** measures the strength of the received signal. *Fun fact: RSSI values are negative because, in the world of wireless signals, negative numbers are the cool kids—they represent small but positive numbers on a logarithmic scale. So, a -30 dBm RSSI is actually a strong signal, just with a bit of a negative attitude.*
 
-- **SNR** measures the quality of the received signal in relation to background noise. *SNR values are positive because, unlike RSSI, they represent the ratio of signal power to noise power, and ratios are typically positive numbers. Think of it as the signal saying, "I'm stronger than the noise!"*
+In wireless communication, **RSSI** and **SNR** determine signal quality.
 
-| **Metric**   | **Good**                     | **Fair**                     | **Poor**                   |
-|--------------|------------------------------|------------------------------|----------------------------|
-| **RSSI**     | 🟢 > -115 dBm                | 🟡 -115 dBm to -120 dBm      | 🔴 ≤ -120 dBm              |
-| **SNR**      | 🟢 > 10 dB                   | 🟡 5 dB to 10 dB              | 🔴 ≤ 5 dB                  |
+#### **RSSI** (Signal Strength)  
+- Measures how strong the signal is (like how loud someone is speaking).  
+  - **Good:** Above **-115 dBm**  
+  - **Poor:** Below **-126 dBm**  
+- **Analogy:** In a concert, voices can be loud (**RSSI = -80 dBm**) but still hard to hear due to noise.
+
+#### **SNR** (Signal Clarity)  
+- Measures how much louder the signal is compared to background noise.  
+  - **Good:** Above **17.5 dB**  
+  - **Poor:** Below **9 dB**  
+- **Analogy:** In a quiet cafe, soft voices (**RSSI = -115 dBm**) are easy to understand because the noise is minimal (**SNR = 25 dB**).
+
+Both strong **RSSI** and high **SNR** are needed for reliable communication.
+
+
+| **Metric**   | **Good**                     | **Fair**                       | **Bad**                       | **Poor**                   |
+|--------------|-------------------------------|---------------------------------|-------------------------------|----------------------------|
+| **RSSI**     | 🟢 > -115 dBm                 | 🟡 -115 dBm to -120 dBm         | 🟠 -120 dBm to -126 dBm        | 🔴 ≤ -126 dBm              |
+| **SNR**      | 🟢 > 17.5 dB                  | 🟡 11 dB to 17.5 dB             | 🟠 9 dB to 11 dB               | 🔴 < 9 dB                  |
+
 
 ---
 ### 📜 **TCMESH Community Messaging Policy**  
