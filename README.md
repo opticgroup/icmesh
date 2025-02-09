@@ -184,8 +184,11 @@ Have your friend scan this code to access this TCMESH page! 🤝
 ### 💬 **Join the Conversation!**
 Want to connect with fellow community members? Click the link to join our Facebook chat and stay in the loop or get help! 💬
 
-[Join our Facebook Chat](https://m.me/ch/AbZCRRHT38CXy0zt/)
+[Join our TCMESH Facebook Chat](https://m.me/ch/AbZCRRHT38CXy0zt/)
 
+[Join SoCalMesh Discord](https://discord.gg/BWAqfNzN)
+
+[Join the Official Meshtastic Discord](https://discord.gg/meshtastic-867578229534359593)
 
 ---
 ### ⚠️ Disclaimer ⚠️ 
