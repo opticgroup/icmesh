@@ -182,13 +182,13 @@ Have your friend scan this code to access this TCMESH page! 🤝
 [![QR Code](qrcode-to-tcmesh.png)](https://github.com/opticgroup/tcmesh)
 
 ### 💬 **Join the Conversation!**
-Want to connect with fellow community members? Click the link to join our Facebook chat and stay in the loop or get help! 💬
+Want to connect with fellow community members? 💬
 
-[Join our TCMESH Facebook Chat](https://m.me/ch/AbZCRRHT38CXy0zt/)
+[Join our TCMESH Facebook Chat](https://m.me/ch/AbZCRRHT38CXy0zt/) (For the Canyon Areas)
 
-[Join SoCalMesh Discord](https://discord.gg/BWAqfNzN)
+[Join SoCalMesh Discord](https://discord.gg/BWAqfNzN) (Southern California Area)
 
-[Join the Official Meshtastic Discord](https://discord.gg/meshtastic-867578229534359593)
+[Join the Official Meshtastic Discord](https://discord.gg/meshtastic-867578229534359593) (Global)
 
 ---
 ### ⚠️ Disclaimer ⚠️ 
