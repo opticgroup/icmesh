@@ -145,8 +145,8 @@ By achieving these goals, we aim to strengthen the network, foster collaboration
 
 | **Metric**   | **Good**                     | **Fair**                     | **Poor**                   |
 |--------------|------------------------------|------------------------------|----------------------------|
-| **RSSI**     | 🟢 -30 dBm to -60 dBm         | 🟡 -61 dBm to -80 dBm         | 🔴 -81 dBm to -100 dBm     |
-| **SNR**      | 🟢 20 dB to 30 dB             | 🟡 10 dB to 19 dB             | 🔴 0 dB to 9 dB            |
+| **RSSI**     | 🟢 > -115 dBm                | 🟡 -115 dBm to -120 dBm      | 🔴 ≤ -120 dBm              |
+| **SNR**      | 🟢 > 10 dB                   | 🟡 5 dB to 10 dB              | 🔴 ≤ 5 dB                  |
 
 ---
 ### 📜 **TCMESH Community Messaging Policy**  
