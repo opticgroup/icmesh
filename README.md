@@ -33,7 +33,7 @@ Example: Notice how Bobby can talk to Jack, even though they are blocked from di
 
 ## ⚙️ **Quick Start**  
 
-1. **Get a Device**: 👉 Starting at $40 and great for walking around the [SenseCap Tracker T1000-E](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html) (direct Link) or [SenseCap Tracker on Amazon](https://www.amazon.com/dp/B0DJ6KGXKB/) is an excellent mobile device or browse higher powered nodes and solar repeaters starting at $60 [Etsy Store](https://www.etsy.com/people/i9v8id6n/favorites/tcmesh-meshtastic-turn-key-devices)  
+1. **Get a Device**: 👉 Starting at $40 and great for walking around the [SenseCap Tracker T1000-E](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html) (direct link) or [SenseCap Tracker on Amazon](https://www.amazon.com/dp/B0DJ6KGXKB/) is an excellent mobile device or browse higher powered nodes and solar repeaters starting at $60 [Etsy Store](https://www.etsy.com/people/i9v8id6n/favorites/tcmesh-meshtastic-turn-key-devices)  
 2. **Install the App:** [Download the Meshtastic app on iOS (App Store)](https://apps.apple.com/us/app/meshtastic/id1586432531) or [Android (Google Play)](https://play.google.com/store/apps/details?id=com.geeksville.mesh&pcampaignid=web_share). 📲  
 3. **Connect Your Phone**: Use your **iPhone** or **Android** and select your new shiny Meshtastic device via **bluetooth**.
 4. **Configure your device**: Go to meshtastic app, settings, user, and choose any shortname and long name you want.  For example mine is shortname: 🦅 long name: EAGLE - TCMESH. **Important** use TCMESH in your long name so we can include your anonymized location on our future TCMESH map.
