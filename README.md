@@ -54,7 +54,7 @@ Example: Notice how Bobby can talk to Jack, even though they are blocked from di
 - **Robinson Ranch** 🧑‍🌾
 
 ### **Phase 2:** Extend into additional areas of Trabuco Canyon 🌐  
-- More coverage on Trabuco Oaks Drive, Mountain View, Windy Ridge, Rosas Cantina 🌮
+- More coverage on Trabuco Oaks Drive, Live Oak Canyon Rd., Mountain View, Windy Ridge, Rosas Cantina 🌮
 - Permanent node at the General Store
 - **Holy Jim** 🔥 to the **Flying Field** 🛩️ with the **Cabins** 🛖 as a long term goal
 
