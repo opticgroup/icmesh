@@ -28,3 +28,12 @@ Ready to extend your range? Here’s how:
 1. **Unbox the Spec5 Copilot Drone Node**.
 2. **Set up the HeltecV3** on your drone.
 3. **Launch and watch the magic happen!** In less than 60 seconds, your range will be extended, ensuring better coverage for your nodes.
+
+## Tips
+
+Since the drone node isn't always online I run these commands in meshtastic CLI to broadcast node info more reguarly.  Not recommended for always on nodes.
+
+meshtastic --set device.channel.fast_broadcast_enabled true
+
+meshtastic --set device.channel.position_broadcast_secs 120
+
