@@ -90,9 +90,9 @@ We're looking for:
 
 ---
 
-### 📅 **Join Our Weekly TC Mesh Net!**  
+### 📅 **Join Our Weekly TC Mesh & SoCalMesh Net!**  
 
-We're excited to invite all TC Mesh users to our **Weekly Net**! 🎉 This is a great opportunity for us to stay connected, practice using TCMESH, and ensure the network is operating smoothly.
+We're excited to invite all TC Mesh users to our **Weekly Net**! 🎉 This is a great opportunity for us to stay connected and ensure the network is operating smoothly.
 
 🕕 **When:** Every Wednesday at **7:00 PM PT**  
 📡 **Where:** Primary Channel 0 on Meshtastic in Trabuco Canyon, CA.
