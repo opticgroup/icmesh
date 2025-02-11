@@ -10,14 +10,14 @@ With the **Spec5 Copilot Drone Node (HeltecV3)**, you can **expand your network 
 - **Range Extension**: Instantly boost the range of your network, providing wider coverage.
 - **Reliable Connectivity**: With a robust system in place, your network stays strong even in tough conditions.
 
-## 📸 Visualize the Power
+## 📸 Picture of actual unit
 
 ![Drone](images/drone.webp)
 
-### 💥 Check out how it works:
+### 💥 The Traceroute
 
-- Launch your drone to instantly increase network coverage.
-- Use the **HeltecV3** technology for smooth operation and seamless connectivity.
+- The station g2 had no direct nodes before launch
+- Within 1-2 minutes was able to reach the SoCalMesh network
 
 ![Drone Traceroute](images/drone-traceroute-2-11-2025.png)
 
