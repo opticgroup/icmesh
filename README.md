@@ -94,7 +94,7 @@ We're looking for:
 
 We're excited to invite all TC Mesh users to our **Weekly Net**! 🎉 This is a great opportunity for us to stay connected, practice using TCMESH, and ensure the network is operating smoothly.
 
-🕕 **When:** Every Tuesday at **6:00 PM PT**  
+🕕 **When:** Every Wednesday at **7:00 PM PT**  
 📡 **Where:** Primary Channel 0 on Meshtastic in Trabuco Canyon, CA.
 
 During the net, we will:  
