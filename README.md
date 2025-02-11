@@ -177,9 +177,7 @@ To ensure a positive, inclusive, and respectful environment for all users, the f
 Together, we can maintain a respectful, safe, and enjoyable space on **TCMESH**! 🤝🌐  
 
 ---
-## Links 📎
-
-| **File**           | **File**          | **File**         |
+| Links 📎 | | |
 |--------------------|-------------------|------------------|
 | [BEST PRACTICES](BEST-PRACTICES.md) 📑 | [DRONE](DRONE.md) 🚁 | [EXTENDED RANGE](EXTENDED-RANGE.md) 🌍 |
 | [FUTURE GOALS](FUTURE-GOALS.md) 🌱 | [INSTALL GUIDE](INSTALLGUIDE.md) ⚙️ | [LICENSE](LICENSE) 📜 |
