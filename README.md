@@ -177,6 +177,15 @@ To ensure a positive, inclusive, and respectful environment for all users, the f
 Together, we can maintain a respectful, safe, and enjoyable space on **TCMESH**! 🤝🌐  
 
 ---
+## Links 📎
+
+| **File**           | **File**          | **File**         |
+|--------------------|-------------------|------------------|
+| [BEST PRACTICES](BEST-PRACTICES.md) 📑 | [DRONE](DRONE.md) 🚁 | [EXTENDED RANGE](EXTENDED-RANGE.md) 🌍 |
+| [FUTURE GOALS](FUTURE-GOALS.md) 🌱 | [INSTALL GUIDE](INSTALLGUIDE.md) ⚙️ | [LICENSE](LICENSE) 📜 |
+| [README](README.md) 📘 | [SOLAR BUILD](SOLAR-BUILD.md) ☀️ | |
+
+---
 ## 📢 **Spread the Word!**
 
 ### 📱 **Join the TCMESH Community!**
