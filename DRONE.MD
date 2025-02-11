@@ -33,7 +33,9 @@ Ready to extend your range? Here’s how:
 
 Since the drone node isn't always online I run these commands in meshtastic CLI to broadcast node info more reguarly.  Not recommended for always on nodes.
 
+```
 meshtastic --set device.channel.fast_broadcast_enabled true
-
+```
+```
 meshtastic --set device.channel.position_broadcast_secs 120
-
+```
