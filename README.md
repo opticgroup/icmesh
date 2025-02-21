@@ -1,6 +1,6 @@
-# TCMESH - Trabuco Canyon Mesh Network 🌄🛰️  
+# ICMESH - Inter-Canyon Mesh Text Message Network 🌄🛰️  
 
-Welcome to **TCMESH**, a community-driven project to create a **peer-to-peer encrypted communication network** across **Trabuco Canyon, CA.** using **Meshtastic**. This network operates completely **off-grid**—with no internet or cell service required! 🌐  
+Welcome to **ICMESH**, a community-driven project to create a **peer-to-peer encrypted communication network** across **Trabuco Canyon, CA.** using **Meshtastic**. This network operates completely **off-grid**—with no internet or cell service required! 🌐  
 
 ### 🚨 **Our Mission**  
 
@@ -33,10 +33,10 @@ Example: Notice how Bobby can talk to Jack, even though they are blocked from di
 
 ## ⚙️ **Quick Start**  
 
-1. **Get a Device**: 👉 Starting at $40 and great for walking around the [SenseCap Tracker T1000-E](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html) (direct link) or [SenseCap Tracker on Amazon](https://www.amazon.com/dp/B0DJ6KGXKB/) is an excellent mobile device.  [WisMesh Pocket V2 for $99](https://store.rakwireless.com/products/wismesh-pocket) is a very stable, turn-key, ready to go node for $99. You can also check out our TCMESH favorites on [Etsy](https://www.etsy.com/people/i9v8id6n/favorites/tcmesh-meshtastic-turn-key-devices) if you want a more custom device (be sure to avoid Heltec we've seen issues with the v3 production).
+1. **Get a Device**: 👉 Starting at $40 and great for walking around the [SenseCap Tracker T1000-E](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html) (direct link) or [SenseCap Tracker on Amazon](https://www.amazon.com/dp/B0DJ6KGXKB/) is an excellent mobile device.  [WisMesh Pocket V2 for $99](https://store.rakwireless.com/products/wismesh-pocket) is a very stable, turn-key, ready to go node for $99. You can also check out our ICMESH favorites on [Etsy](https://www.etsy.com/people/i9v8id6n/favorites/ICMESH-meshtastic-turn-key-devices) if you want a more custom device (be sure to avoid Heltec we've seen issues with the v3 production).
 2. **Install the App:** [Download the Meshtastic app on iOS (App Store)](https://apps.apple.com/us/app/meshtastic/id1586432531) or [Android (Google Play)](https://play.google.com/store/apps/details?id=com.geeksville.mesh&pcampaignid=web_share). 📲  
 3. **Connect Your Phone**: Use your **iPhone** or **Android** and select your new shiny Meshtastic device via **bluetooth**.
-4. **Configure your device**: Go to meshtastic app, settings, user, and choose any shortname and long name you want.  For example mine is shortname: 🦅 long name: EAGLE - TCMESH. **Important** use TCMESH in your long name so we can include your anonymized location on our future TCMESH map.
+4. **Configure your device**: Go to meshtastic app, settings, user, and choose any shortname and long name you want.  For example mine is shortname: 🦅 long name: EAGLE - ICMESH. **Important** use ICMESH in your long name so we can include your anonymized location on our future ICMESH map.
 5. **Join the Network**: Once connected, your device will automatically communicate with other nodes on the mesh.  Go to messages and chat in the primary channel or go to nodes and private message (**encrypted**) with any node in the network. 
 
 📖 **For detailed instructions**, see our full guide: [INSTALLGUIDE.md](INSTALLGUIDE.md)  // Needs update
@@ -59,7 +59,7 @@ Example: Notice how Bobby can talk to Jack, even though they are blocked from di
 - **Holy Jim** 🔥 to the **Flying Field** 🛩️ with the **Cabins** 🛖 as a long term goal
 
 ### **Phase 3:** Connect surrounding canyons and communities 🏞️  
-- Goal:  Find and promote stakeholders in other canyons that can extend the TCMESH to the following canyons:
+- Goal:  Find and promote stakeholders in other canyons that can extend the ICMESH to the following canyons:
 - **Modjeska Canyon**, **Silverado Canyon**, **Williams Canyon**, **Black Star Canyon**
 
 ![Future Proposed Locations](images/future-network.png)
@@ -78,15 +78,17 @@ We're looking for:
 - **Nerds, hardware hackers, and radio enthusiasts** 🎙️ to help expand the network with hardware and code to improve network resiliency.
 - **Volunteers** to place **routers** on their property 🏠 to enhance coverage. Ideal spots are at high elevations with good line-of-sight to neighboring areas and router nodes.
 - **Advocates** to spread the word and recruit more community members.
-- **Fundraisers** – Partner with a restaurant to share revenue with TCMESH. Our goal is to raise $1,000 to build the initial router network.
+- **Fundraisers** – Partner with a restaurant to share revenue with ICMESH. Our goal is to raise $1,000 to build the initial router network.
 - **Community Leaders** to secure funding, collaborate with government agencies, and invest in turnkey nodes for optimal property placements. 
 
 ---
 
 ## ✅ **Current Progress**  
-- **Our first solar powered node** will go live February 2025. 
-- Successful tests have already occured from Hamilton Trail reaching as far as San Clemente and Anaheim.
-- This website 😃
+- Solar node is live on Hamilton Trail
+- Solar node is live at the top of Live Oak Canyon Grade (by Doody Residence)
+- We have made successful tests between Hamilton and Cooks
+- A new solar node is being built and will be placed near Windy Ridge to cover Trabuco Oaks Drive
+- All the nodes will be line of sight of each other, extending range deep into the canyons
 
 ---
 
@@ -115,7 +117,7 @@ See you every Tuesday at 6PM! Let's keep building and improving together! 🌐�
 | 📚 **PACE Level**   | 📡 **Method**           | 📝 **Description**                                                                             | ✅ **Pros**                           | ❌ **Cons**                           |
 |----------------------|--------------------------|------------------------------------------------------------------------------------------------|----------------------------------------|----------------------------------------|
 | **Primary**          | 📱 **Cell Phone / Internet** | Standard mobile networks or Wi-Fi internet communication.                                       | High reliability and speed             | Dependent on towers and infrastructure |
-| **Alternate**        | 📶 **TCMESH (Meshtastic)**   | Encrypted peer-to-peer communication using mesh networking devices.                             | No infrastructure needed, encrypted    | Limited range, requires local nodes    |
+| **Alternate**        | 📶 **ICMESH (Meshtastic)**   | Encrypted peer-to-peer communication using mesh networking devices.                             | No infrastructure needed, encrypted    | Limited range, requires local nodes    |
 | **Contingency**      | 🎙️ **GMRS**                  | General Mobile Radio Service (requires license), for family or local communication.              | Easy to use, better range than FRS     | Requires GMRS license, non-encrypted   |
 | **Emergency**        | 📻 **Ham Radio**          | High-frequency amateur radio for long-range emergency communication.                            | Global range, robust in emergencies    | License needed, complex equipment      |
 | **Emergency**        | 🛰️ **Satellite**             | Satellite communication (e.g., Starlink, Iridium) for critical off-grid communication.           | Global coverage, reliable in remote areas | Expensive, limited message capacity  |
@@ -152,7 +154,7 @@ Both strong **RSSI** and high **SNR** are needed for reliable communication.
 
 
 ---
-### 📜 **TCMESH Community Messaging Policy**  
+### 📜 **ICMESH Community Messaging Policy**  
 
 To ensure a positive, inclusive, and respectful environment for all users, the following guidelines apply to messaging over TC Mesh:  
 
@@ -172,9 +174,9 @@ To ensure a positive, inclusive, and respectful environment for all users, the f
    Messages promoting commercial sales, advertisements, or spam are not permitted. Let's keep the network free of unwanted promotions.
 
 6. 🪪 **Legal Placement of Routers & Nodes**:
-   Place routers in areas with federal, state, city, goverment, property owner permission.  It's good practice to keep e-mail permission in your files. Avoid "rougue" installations to maintain **TCMESH** as a leading mesh network with good relationships to keep network placement safe.
+   Place routers in areas with federal, state, city, goverment, property owner permission.  It's good practice to keep e-mail permission in your files. Avoid "rougue" installations to maintain **ICMESH** as a leading mesh network with good relationships to keep network placement safe.
 
-Together, we can maintain a respectful, safe, and enjoyable space on **TCMESH**! 🤝🌐  
+Together, we can maintain a respectful, safe, and enjoyable space on **ICMESH**! 🤝🌐  
 
 ---
 | Links 📎 | | |
@@ -186,15 +188,15 @@ Together, we can maintain a respectful, safe, and enjoyable space on **TCMESH**!
 ---
 ## 📢 **Spread the Word!**
 
-### 📱 **Join the TCMESH Community!**
-Have your friend scan this code to access this TCMESH page! 🤝
+### 📱 **Join the ICMESH Community!**
+Have your friend scan this code to access this ICMESH page! 🤝
 
-[![QR Code](qrcode-to-tcmesh.png)](https://github.com/opticgroup/tcmesh)
+[![QR Code](qrcode-to-ICMESH.png)](https://github.com/opticgroup/ICMESH)
 
 ### 💬 **Join the Conversation!**
 Want to connect with fellow community members? 💬
 
-[Join our TCMESH Facebook Chat](https://m.me/ch/AbZCRRHT38CXy0zt/) (For the Canyon Areas)
+[Join our ICMESH Facebook Chat](https://m.me/ch/AbZCRRHT38CXy0zt/) (For the Canyon Areas)
 
 [Join SoCalMesh Discord](https://discord.gg/BWAqfNzN) (Southern California Area)
 
@@ -203,4 +205,4 @@ Want to connect with fellow community members? 💬
 ---
 ### ⚠️ Disclaimer ⚠️ 
 
-TCMESH, its members, and nodes make no guarantees regarding the reliability of communication within the network. TCMESH does not manufacture, sell, warranty, or place any equipment; the responsibility for equipment installation lies solely with the participant. While TCMESH strives to provide a stable off-grid communication system, it operates on a best-effort basis and may experience disruptions. By participating, you acknowledge that TCMESH is not liable for any failed communications. You are solely responsible for ensuring your use of TCMESH complies with all applicable local, state, and federal laws, including those related to telecommunications, radio frequencies, and data privacy. TCMESH does not collect personal data unless explicitly stated, but participants should be aware that while mesh networking may encrypt communications, the exit node could potentially decrypt and store data. Personal identifiable information should never be disclosed over the network. TCMESH encourages users to conduct their own research and use the network at their own risk. Participants agree to indemnify TCMESH, its members, contributors, and affiliates from any claims, damages, or liabilities arising from the use or misuse of the network. All trademarks are the property of their respective owners.
+ICMESH, its members, and nodes make no guarantees regarding the reliability of communication within the network. ICMESH does not manufacture, sell, warranty, or place any equipment; the responsibility for equipment installation lies solely with the participant. While ICMESH strives to provide a stable off-grid communication system, it operates on a best-effort basis and may experience disruptions. By participating, you acknowledge that ICMESH is not liable for any failed communications. You are solely responsible for ensuring your use of ICMESH complies with all applicable local, state, and federal laws, including those related to telecommunications, radio frequencies, and data privacy. ICMESH does not collect personal data unless explicitly stated, but participants should be aware that while mesh networking may encrypt communications, the exit node could potentially decrypt and store data. Personal identifiable information should never be disclosed over the network. ICMESH encourages users to conduct their own research and use the network at their own risk. Participants agree to indemnify ICMESH, its members, contributors, and affiliates from any claims, damages, or liabilities arising from the use or misuse of the network. All trademarks are the property of their respective owners.
