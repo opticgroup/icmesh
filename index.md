@@ -31,7 +31,7 @@ Meshtastic (aka Lora Mesh Networking) is a long-range, open-source communication
    Devices can transmit up to 1 watt (30 dBm) ⚡ of power, providing extensive coverage 🌍, with the network’s relaying further extending its range 📶.
 
 Example: Notice how Bobby can talk to Jack, even though they are blocked from direct line of sight. 
- 
+
 ![Community Example](images/community-example.jpg)
 
 ---
@@ -68,6 +68,7 @@ Example: Notice how Bobby can talk to Jack, even though they are blocked from di
 - **Modjeska Canyon**, **Silverado Canyon**, **Williams Canyon**, **Black Star Canyon**
 
 ![Future Proposed Locations](images/future-network.png)
+
 | 🟢   | 🟡   | ⚫   |
 |------|------|------|
 | Operational | Planned | Wanted |
@@ -128,12 +129,12 @@ See you every Tuesday at 6PM! Let's keep building and improving together! 🌐�
 | **Emergency**        | 🛰️ **Satellite**             | Satellite communication (e.g., Starlink, Iridium) for critical off-grid communication.           | Global coverage, reliable in remote areas | Expensive, limited message capacity  |
 
 ---
+
 ## **FAQ - Frequently Asked Questions**
 
 **Do I need a license or technical knowledge?** - No license needed and the sensecap works out of the box.   
 
 **What is RSSI and SNR mean?** - Meshtastic devices provide two key metrics to evaluate signal quality: **RSSI (Received Signal Strength Indicator)** and **SNR (Signal-to-Noise Ratio)**.  
-
 
 In wireless communication, **RSSI** and **SNR** determine signal quality.
 
@@ -151,14 +152,13 @@ In wireless communication, **RSSI** and **SNR** determine signal quality.
 
 Both strong **RSSI** and high **SNR** are needed for reliable communication.
 
-
 | **Metric**   | **Good**                     | **Fair**                       | **Bad**                       | **Poor**                   |
 |--------------|-------------------------------|---------------------------------|-------------------------------|----------------------------|
 | **RSSI**     | 🟢 > -115 dBm                 | 🟡 -115 dBm to -120 dBm         | 🟠 -120 dBm to -126 dBm        | 🔴 ≤ -126 dBm              |
 | **SNR**      | 🟢 > 17.5 dB                  | 🟡 11 dB to 17.5 dB             | 🟠 9 dB to 11 dB               | 🔴 < 9 dB                  |
 
-
 ---
+
 ### 📜 **ICMESH Community Messaging Policy**  
 
 To ensure a positive, inclusive, and respectful environment for all users, the following guidelines apply to messaging over TC Mesh:  
@@ -179,35 +179,4 @@ To ensure a positive, inclusive, and respectful environment for all users, the f
    Messages promoting commercial sales, advertisements, or spam are not permitted. Let's keep the network free of unwanted promotions.
 
 6. 🪪 **Legal Placement of Routers & Nodes**:
-   Place routers in areas with federal, state, city, goverment, property owner permission.  It's good practice to keep e-mail permission in your files. Avoid "rougue" installations to maintain **ICMESH** as a leading mesh network with good relationships to keep network placement safe.
-
-Together, we can maintain a respectful, safe, and enjoyable space on **ICMESH**! 🤝🌐  
-
----
-| Links 📎 | | |
-|--------------------|-------------------|------------------|
-| [BEST PRACTICES](BEST-PRACTICES.md) 📑 | [DRONE](DRONE.md) 🚁 | [EXTENDED RANGE](EXTENDED-RANGE.md) 🌍 |
-| [FUTURE GOALS](FUTURE-GOALS.md) 🌱 | [INSTALL GUIDE](INSTALLGUIDE.md) ⚙️ | [LICENSE](LICENSE) 📜 |
-| [README](README.md) 📘 | [SOLAR BUILD](SOLAR-BUILD.md) ☀️ | |
-
----
-## 📢 **Spread the Word!**
-
-### 📱 **Join the ICMESH Community!**
-Have your friend scan this code to access this ICMESH page! 🤝
-
-[![QR Code](qrcode-to-ICMESH.png)](https://github.com/opticgroup/ICMESH)
-
-### 💬 **Join the Conversation!**
-Want to connect with fellow community members? 💬
-
-[Join our ICMESH Facebook Chat](https://m.me/ch/AbZCRRHT38CXy0zt/) (For the Canyon Areas)
-
-[Join SoCalMesh Discord](https://discord.gg/BWAqfNzN) (Southern California Area)
-
-[Join the Official Meshtastic Discord](https://discord.gg/meshtastic-867578229534359593) (Global)
-
----
-### ⚠️ Disclaimer ⚠️ 
-
-ICMESH, its members, and nodes make no guarantees regarding the reliability of communication within the network. ICMESH does not manufacture, sell, warranty, or place any equipment; the responsibility for equipment installation lies solely with the participant. While ICMESH strives to provide a stable off-grid communication system, it operates on a best-effort basis and may experience disruptions. By participating, you acknowledge that ICMESH is not liable for any failed communications. You are solely responsible for ensuring your use of ICMESH complies with all applicable local, state, and federal laws, including those related to telecommunications, radio frequencies, and data privacy. ICMESH does not collect personal data unless explicitly stated, but participants should be aware that while mesh networking may encrypt communications, the exit node could potentially decrypt and store data. Personal identifiable information should never be disclosed over the network. ICMESH encourages users to conduct their own research and use the network at their own risk. Participants agree to indemnify ICMESH, its members, contributors, and affiliates from any claims, damages, or liabilities arising from the use or misuse of the network. All trademarks are the property of their respective owners.
+   Place routers in areas with federal, state, city, government, property owner permission.  It's good practice to keep e-mail permission in your files. Avoid "rogue" installations to maintain **ICMESH** as a leading
