@@ -1,2 +1,5 @@
 title: ICMESH
 description: Inter-Canyon Mesh Text Message Network
+theme: minima
+sass:
+  style: compressed
