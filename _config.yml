@@ -1,0 +1,5 @@
+title: ICMESH
+description: Inter-Canyon Mesh Text Message Network
+theme: minima  # Default theme, we'll override the style
+baseurl: ""    # Leave empty for root
+url: "https://icmesh.com"  # Your domain
