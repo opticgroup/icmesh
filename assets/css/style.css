@@ -1,0 +1,46 @@
+body {
+    background-color: black !important;
+    color: white !important; /* Ensures text is readable on black */
+}
+
+/* Preserve GitHub-like Markdown styling */
+.markdown-body {
+    max-width: 980px !important; /* Matches GitHub’s default width */
+    margin: 0 auto !important; /* Centers content */
+    padding: 45px !important; /* Matches GitHub’s padding */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important; /* GitHub’s default font */
+}
+
+/* Style links to match GitHub (blue on black, white on hover) */
+a {
+    color: #0366d6 !important; /* GitHub’s default link blue, readable on black */
+    text-decoration: underline !important;
+}
+a:hover {
+    color: white !important; /* White on hover for contrast on black */
+    text-decoration: none !important;
+}
+
+/* Style tables to match GitHub default */
+table {
+    width: 100% !important;
+    border-collapse: collapse !important;
+    margin: 20px 0 !important;
+    background-color: #1a1a1a !important; /* Slightly lighter black for contrast */
+    color: white !important;
+}
+th, td {
+    border: 1px solid #333 !important;
+    padding: 8px !important;
+    text-align: left !important;
+}
+th {
+    background-color: #333 !important;
+    font-weight: bold !important;
+}
+
+/* Ensure images and emojis are visible */
+img {
+    max-width: 100% !important;
+    height: auto !important;
+}
