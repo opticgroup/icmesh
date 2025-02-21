@@ -5,7 +5,7 @@ body {
     color: white !important; /* Ensures text is readable on black */
 }
 
-.markdown-body {
+.page-content, .markdown-body {
     max-width: 980px !important; /* Matches GitHub’s default width */
     margin: 0 auto !important; /* Centers content */
     padding: 45px !important; /* Matches GitHub’s padding */
