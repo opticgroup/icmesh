@@ -1,34 +1,28 @@
-/* Black background and white text for the page */
-body {
+body, .site, .page-content, .markdown-body {
     background-color: black !important;
-    color: white !important;
-    margin: 0 !important;
+    color: white !important; /* Ensures text is readable on black */
 }
 
-/* GitHub-like centered layout with dark theme */
 .markdown-body {
-    max-width: 980px !important; /* GitHub’s default width */
-    margin: 0 auto !important; /* Center content */
-    padding: 45px !important; /* GitHub’s padding */
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif !important; /* GitHub’s font */
-    background-color: black !important;
-    color: white !important;
+    max-width: 980px !important; /* Matches GitHub’s default width */
+    margin: 0 auto !important; /* Centers content */
+    padding: 45px !important; /* Matches GitHub’s padding */
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important; /* GitHub’s default font */
 }
 
-/* Readable links on dark background */
 a {
-    color: #58a6ff !important; /* GitHub’s blue */
+    color: #58a6ff !important; /* GitHub’s blue, readable on black */
     text-decoration: underline !important;
 }
 a:hover {
-    color: white !important;
+    color: white !important; /* White on hover for contrast */
 }
 
-/* Tables styled for dark theme */
 table {
+    width: 100% !important;
     border-collapse: collapse !important;
     margin: 20px 0 !important;
-    background-color: #1a1a1a !important; /* Slight contrast */
+    background-color: #1a1a1a !important; /* Slight contrast for tables */
     color: white !important;
 }
 th, td {
@@ -39,7 +33,6 @@ th {
     background-color: #333 !important;
 }
 
-/* Responsive images */
 img {
     max-width: 100% !important;
     height: auto !important;
