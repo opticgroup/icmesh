@@ -1,39 +1,53 @@
+/* Base styles for all devices */
 body, .site, .page-content, .markdown-body {
-    background-color: black !important;
-    color: white !important; /* Ensures text is readable on black */
+    background-color: black;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 16px;
+    line-height: 1.6;
 }
 
 .markdown-body {
-    max-width: 980px !important; /* Matches GitHub’s default width */
-    margin: 0 auto !important; /* Centers content */
-    padding: 45px !important; /* Matches GitHub’s padding */
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !important; /* GitHub’s default font */
+    max-width: 980px;
+    margin: 0 auto;
+    padding: 45px;
 }
 
 a {
-    color: #58a6ff !important; /* GitHub’s blue, readable on black */
-    text-decoration: underline !important;
+    color: #58a6ff;
+    text-decoration: underline;
 }
 a:hover {
-    color: white !important; /* White on hover for contrast */
+    color: white;
 }
 
 table {
-    width: 100% !important;
-    border-collapse: collapse !important;
-    margin: 20px 0 !important;
-    background-color: #1a1a1a !important; /* Slight contrast for tables */
-    color: white !important;
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    background-color: #1a1a1a;
+    color: white;
 }
 th, td {
-    border: 1px solid #444 !important;
-    padding: 8px !important;
+    border: 1px solid #444;
+    padding: 8px;
 }
 th {
-    background-color: #333 !important;
+    background-color: #333;
 }
 
 img {
-    max-width: 100% !important;
-    height: auto !important;
+    max-width: 100%;
+    height: auto;
+}
+
+/* Mobile adjustments */
+@media (max-width: 768px) {
+    body, .site, .page-content, .markdown-body {
+        font-size: 18px;
+        padding: 20px;
+    }
+    th, td {
+        font-size: 16px;
+    }
 }
