@@ -13,7 +13,7 @@ We’ve placed several repeaters 📶 across the canyons, starting in Trabuco Ca
 
 ## ⚙️ **Quick Start**  
 
-1. **Get a Device**: 👉 Starting at $40 and great for walking around the [SenseCap Tracker T1000-E](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html) (direct link) or [SenseCap Tracker on Amazon](https://www.amazon.com/dp/B0DJ6KGXKB/) is an excellent mobile device.  Note:  If Amazon is out of stock the price may show higher and in that case use the direct-link. The [WisMesh Pocket V2 for $99](https://store.rakwireless.com/products/wismesh-pocket) is slightly more expensive but is "hackable" at $99.  You can also check out our ICMESH favorites on [Etsy](https://www.etsy.com/people/i9v8id6n/favorites/ICMESH-meshtastic-turn-key-devices). **Warning:** Avoid devices with the Heltec v3 chip due to manufacturing defects. 
+1. **Get a Device**: 👉 Starting at $40 and great for walking around the [SenseCap Tracker T1000-E](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html) (direct link) or [SenseCap Tracker on Amazon](https://www.amazon.com/dp/B0DJ6KGXKB/) is an excellent mobile device.  Note:  If Amazon is out of stock the price may show higher and in that case use the direct-link. The [WisMesh Pocket V2 for $99](https://store.rakwireless.com/products/wismesh-pocket) is slightly more expensive but is "hackable" at $99.  You can also check out our ICMESH favorites on [Etsy](https://www.etsy.com/people/i9v8id6n/favorites/ICMESH-meshtastic-turn-key-devices). **Warning:** Avoid devices with the Heltec v3 chip (we've had issues with that one).
 2. **Install the App:** [Download the Meshtastic app on iOS (App Store)](https://apps.apple.com/us/app/meshtastic/id1586432531) or [Android (Google Play)](https://play.google.com/store/apps/details?id=com.geeksville.mesh&pcampaignid=web_share). 📲  
 3. **Connect Your Phone**: Open the **Meshtastic** app and pair to your new device. 
 4. **Configure your device**: Go to Settings -> User -> and choose any short and long name you want.  For example: short name = AMY long name = AMY - ICMESH.COM. **Important** We encourage you to use ICMESH.COM in your long name to promote ICMESH and so that we can count how many users we have.
@@ -82,11 +82,11 @@ How does ICMESH compare to other forms of communication?
 
 **How much does this cost?** - Your initial cost will be about $50.  There is no monthly fees.
 
-**What is RSSI and SNR mean?** - Meshtastic devices provide two key metrics to evaluate signal quality: **RSSI (Received Signal Strength Indicator)** and **SNR (Signal-to-Noise Ratio)**.  Go here to learn more. 
+**What does RSSI and SNR mean?** - Meshtastic devices provide two key radio metrics to evaluate signal quality: **RSSI (Received Signal Strength Indicator)** and **SNR (Signal-to-Noise Ratio)**. We explain both [here](rssi-snr.md).
 
 ---
 
-### 📜 **ICMESH Community Messaging Policy**  
+### 📜 **ICMESH Community Guidelines**  
 
 To ensure a positive and respectful environment for all users, the following guidelines apply to messaging over ICMESH:  
 
