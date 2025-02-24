@@ -108,4 +108,4 @@ To ensure a positive and respectful environment for all users, the following gui
 6. 🪪 **Legal Placement of Nodes**:
    Always place nodes in areas with federal, state, city, government, and property owner permission. Avoid "rogue" installations to maintain integrity.
 
-We look forward to seeing you on ICMESH!  -- Nick
+We look forward to seeing you on ICMESH!
