@@ -1,33 +1,11 @@
-![Logo](images/icmesh-logo.png)
+# Inter-Canyon Mesh Text Message Network 🌄🛰️  
 
-# ICMESH - Inter-Canyon Mesh Text Message Network 🌄🛰️  
-
-Welcome to **ICMESH**, a community-driven project to create a **peer-to-peer encrypted communication network** across **Trabuco Canyon, CA.** using **Meshtastic**. This network operates completely **off-grid**—with no internet or cell service required! 🌐  
-
-### 🚨 **Our Mission**  
-
-To **unite our community** with a **secure, alternate communication network** for **curiosity, connection, and emergency preparedness**.  
-Stay connected during events like **fires**, **fallen poles**, and **flooding** 🌊🔥, without relying on **SCE power**, **internet**, **radio repeaters**, or **cell towers** ⚡📶.
+Welcome to **ICMESH**, a community-driven project to create a **peer-to-peer encrypted communication network** across **our canyons** using **Meshtastic**. This network operates completely **off-grid**—with no internet or cell service required! 🌐  
 
 ---
 
-### 📶 **How Meshtastic Works**  
-
-Meshtastic (aka Lora Mesh Networking) is a long-range, open-source communication network designed to function without traditional cell towers or internet access. It is highly resilient and designed to avoid single points of failure. Here's how it works:
-
-1. **Device-to-Device Communication**:  
-   Meshtastic devices form a decentralized mesh network 🌐, where messages hop between devices to reach their destination 🚀, enabling communication over long distances, even in remote areas 🌄.
-
-2. **Network Resilience**:  
-   If a node goes offline ⚠️, the mesh automatically reroutes messages 🔄 through other available nodes, ensuring continuous operation without disruption 🔧.
-
-3. **Unlicensed Usage**:  
-   Meshtastic operates on the 915 MHz frequency in the unlicensed ISM band 📡, offering long-range communication without the need for a license 🚫.
-
-4. **Power & Range**:  
-   Devices can transmit up to 1 watt (30 dBm) ⚡ of power, providing extensive coverage 🌍, with the network’s relaying further extending its range 📶.
-
-Example: Notice how Bobby can talk to Jack, even though they are blocked from direct line of sight. 
+### 📡 **How Does It Work?**  
+We’ve placed several repeaters 📶 across the canyons, starting with Trabuco Canyon, to provide radio frequency coverage 🌍 over our rugged terrain. Using Meshtastic, an open-source mesh networking system 🌐, all you need is a small radio 📻 paired to your phone via Bluetooth 📲 to get up and running in minutes ⏱️—here’s how it works: Bobby can text Jack 💬 across the network, with messages hopping from device to device 🚀, bypassing obstacles and working without internet, power, or cell service 🚫 
 
 ![Community Example](images/community-example.jpg)
 
@@ -35,15 +13,16 @@ Example: Notice how Bobby can talk to Jack, even though they are blocked from di
 
 ## ⚙️ **Quick Start**  
 
-1. **Get a Device**: 👉 Starting at $40 and great for walking around the [SenseCap Tracker T1000-E](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html) (direct link) or [SenseCap Tracker on Amazon](https://www.amazon.com/dp/B0DJ6KGXKB/) is an excellent mobile device.  [WisMesh Pocket V2 for $99](https://store.rakwireless.com/products/wismesh-pocket) is a very stable, turn-key, ready to go node for $99. You can also check out our ICMESH favorites on [Etsy](https://www.etsy.com/people/i9v8id6n/favorites/ICMESH-meshtastic-turn-key-devices) if you want a more custom device (be sure to avoid Heltec we've seen issues with the v3 production).
+1. **Get a Device**: 👉 Starting at $40 and great for walking around the [SenseCap Tracker T1000-E](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html) (direct link) or [SenseCap Tracker on Amazon](https://www.amazon.com/dp/B0DJ6KGXKB/) is an excellent mobile device.  Note:  If Amazon is out of stock the price may show higher and in that case use the direct-link. The [WisMesh Pocket V2 for $99](https://store.rakwireless.com/products/wismesh-pocket) is slightly more expensive at $99.  You can also check out our ICMESH favorites on [Etsy](https://www.etsy.com/people/i9v8id6n/favorites/ICMESH-meshtastic-turn-key-devices). **Warning:** Avoid devices with the Heltec v3 chip due to manufacturing defects. 
 2. **Install the App:** [Download the Meshtastic app on iOS (App Store)](https://apps.apple.com/us/app/meshtastic/id1586432531) or [Android (Google Play)](https://play.google.com/store/apps/details?id=com.geeksville.mesh&pcampaignid=web_share). 📲  
 3. **Connect Your Phone**: Use your **iPhone** or **Android** and select your new shiny Meshtastic device via **bluetooth**.
-4. **Configure your device**: Go to meshtastic app, settings, user, and choose any shortname and long name you want.  For example mine is shortname: 🦅 long name: EAGLE - ICMESH. **Important** use ICMESH in your long name so we can include your anonymized location on our future ICMESH map.
-5. **Join the Network**: Once connected, your device will automatically communicate with other nodes on the mesh.  Go to messages and chat in the primary channel or go to nodes and private message (**encrypted**) with any node in the network. 
+4. **Configure your device**: Go to meshtastic app, settings, user, and choose any shortname and long name you want.  For example mine is shortname: AMY and long name: AMY - ICMESH.COM. **Important** Please use ICMESH in your long name so we can count how many people are on the network. 
+5. **Join the Network**: Your device will automatically join the ICMESH network and will also work outside of the canyons.
+6. **Send A Message**: In your mobile app, go to Channel to send a message to everyone or you can send directed messages to your friends.   
 
 📖 **For detailed instructions**, see our full guide: [INSTALLGUIDE.md](INSTALLGUIDE.md)  // Needs update
 
-![Device Example](images/sensecap.png)
+![Device Example](images/t1000.webp)
 
 ---
 
