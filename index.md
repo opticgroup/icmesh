@@ -28,20 +28,7 @@ We’ve placed several repeaters 📶 across the canyons, starting with Trabuco 
 
 ## 📍 **Coverage Map**  
 
-### **Phase 1:** Establish Network 🎬
-- **Live Oaks Grade** 🛣️
-- **Hamilton Trail** 🏡  
-- **Trabuco Oaks Drive** 🌲
-- **Robinson Ranch** 🧑‍🌾
-
-### **Phase 2:** Extend into additional areas of Trabuco Canyon 🌐  
-- More coverage on Trabuco Oaks Drive, Live Oak Canyon Rd., Mountain View, Windy Ridge, Rosas Cantina 🌮
-- Permanent node at the General Store
-- **Holy Jim** 🔥 to the **Flying Field** 🛩️ with the **Cabins** 🛖 as a long term goal
-
-### **Phase 3:** Connect surrounding canyons and communities 🏞️  
-- Goal:  Find and promote stakeholders in other canyons that can extend the ICMESH to the following canyons:
-- **Modjeska Canyon**, **Silverado Canyon**, **Williams Canyon**, **Black Star Canyon**
+### Our current coverage in Trabuco Canyon, CA.
 
 ![Future Proposed Locations](images/future-network.png)
 
@@ -57,44 +44,23 @@ View our [Extended Range Plan](EXTENDED-RANGE.md) and the [Future Goals of the M
 
 We're looking for:
 
-- **Nerds, hardware hackers, and radio enthusiasts** 🎙️ to help expand the network with hardware and code to improve network resiliency.
-- **Volunteers** to place **routers** on their property 🏠 to enhance coverage. Ideal spots are at high elevations with good line-of-sight to neighboring areas and router nodes.
-- **Advocates** to spread the word and recruit more community members.
-- **Fundraisers** – Partner with a restaurant to share revenue with ICMESH. Our goal is to raise $1,000 to build the initial router network.
-- **Community Leaders** to secure funding, collaborate with government agencies, and invest in turnkey nodes for optimal property placements. 
+- **Nerds, hardware hackers, and radio enthusiasts** 🎙️ to help us establish the network and place inital repeaters.
+- **You** to buy a device, join the network, and spread the word!
+- **Meet Up** – Join us 📅 **Wednesday's at 6PM** on the mesh & facebook to test the network weekly.
+- **Community Leaders** to help us secure funding. Our fundraiser goal is $1,000. 
 
 ---
 
 ## ✅ **Current Progress**  
-- Solar node is live on Hamilton Trail
-- Solar node is live at the top of Live Oak Canyon Grade (by Doody Residence)
-- We have made successful tests between Hamilton and Cooks
-- A new solar node is being built and will be placed near Windy Ridge to cover Trabuco Oaks Drive
-- All the nodes will be line of sight of each other, extending range deep into the canyons
-
----
-
-### 📅 **Join Our Weekly TC Mesh & SoCalMesh Net!**  
-
-We're excited to invite all TC Mesh users to our **Weekly Net**! 🎉 This is a great opportunity for us to stay connected and ensure the network is operating smoothly.
-
-🕕 **When:** Every Wednesday at **7:00 PM PT**  
-📡 **Where:** Primary Channel 0 on Meshtastic in Trabuco Canyon, CA.
-
-During the net, we will:  
-1. **Trade Messages** 💬 – Test and communicate with others on the network.  
-2. **Expose Coverage Issues** 📶 – Identify weak spots and areas that need improvement.  
-3. **Teach & Learn** 🧑‍🏫 – Share knowledge with new users, answer questions, and provide demos.  
-4. **Ensure Network Health** ⚙️ – Confirm that devices are functioning properly and the network is stable.
-5. **Use Facebook Chat** 💬 - To relay mesh results in real time. 
-
-Regular participation helps us keep TC Mesh reliable and ready for when we need it most.   Whether you're a beginner or an experienced user, your involvement makes a difference! 🤝  
-
-See you every Tuesday at 6PM! Let's keep building and improving together! 🌐✨  
+- Solar node is live on Hamilton Trail & near the Doody Ranch
+- Succesful testing between Hamilton, Cooks, and even Coto De Caza
+- This website, including a MQQT Server, Grafana Dashboard, and custom code [here](https://github.com/opticgroup/icmesh)
 
 ---
 
 ## 📡✨ Communications Compared 📊
+
+How does ICMESH compare to other forms of communication?
 
 | 📚 **PACE Level**   | 📡 **Method**           | 📝 **Description**                                                                             | ✅ **Pros**                           | ❌ **Cons**                           |
 |----------------------|--------------------------|------------------------------------------------------------------------------------------------|----------------------------------------|----------------------------------------|
@@ -137,7 +103,7 @@ Both strong **RSSI** and high **SNR** are needed for reliable communication.
 
 ### 📜 **ICMESH Community Messaging Policy**  
 
-To ensure a positive, inclusive, and respectful environment for all users, the following guidelines apply to messaging over TC Mesh:  
+To ensure a positive and respectful environment for all users, the following guidelines apply to messaging over ICMESH:  
 
 1. 🚫 **No Politics or Religion**:  
    Keep conversations neutral and avoid topics related to politics or religion to maintain harmony.  
@@ -145,8 +111,8 @@ To ensure a positive, inclusive, and respectful environment for all users, the f
 2. 🗣️ **No Foul Language**:  
    Use respectful language at all times. Offensive or inappropriate language is strictly prohibited.  
 
-3. 🚷 **No SHAFT Content**:  
-   Content related to **Sex, Hate, Alcohol, Firearms, or Tobacco/Drugs** is not allowed. Keep messages clean and safe for everyone.  
+3. 🚷 **No SHAT**:  
+   Content related to **Sex, Hate, Alcohol, or Tobacco/Drugs** is not allowed. Keep messages clean and safe for everyone.  
 
 4. 👶 **All-Age Appropriate**:  
    All messages should be suitable for audiences of all ages. Think family-friendly in all communications.  
@@ -154,5 +120,5 @@ To ensure a positive, inclusive, and respectful environment for all users, the f
 5. 📵 **No Commercial Sales or Spam**:  
    Messages promoting commercial sales, advertisements, or spam are not permitted. Let's keep the network free of unwanted promotions.
 
-6. 🪪 **Legal Placement of Routers & Nodes**:
-   Place routers in areas with federal, state, city, government, property owner permission.  It's good practice to keep e-mail permission in your files. Avoid "rogue" installations to maintain **ICMESH** as a leading
+6. 🪪 **Legal Placement of Nodes**:
+   Always place nodes in areas with federal, state, city, government, and property owner permission. Avoid "rogue" installations to maintain integrity.
