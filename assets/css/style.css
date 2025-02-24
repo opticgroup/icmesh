@@ -44,7 +44,7 @@ img {
 /* Mobile adjustments */
 @media (max-width: 768px) {
     body, .site, .page-content, .markdown-body {
-        font-size: 18px;
+        font-size: 22px;
         padding: 20px;
     }
     th, td {
