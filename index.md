@@ -20,13 +20,15 @@ We’ve placed several repeaters 📶 across the canyons, starting in Trabuco Ca
 5. **Join the Network**: Your device will automatically join the ICMESH network and will also work with other mesh networks outside of the canyon. There are over 1,000 people using Meshtastic in Southern California.
 6. **Send A Message**: In your mobile app, go to **Channel** to send a message to everyone or **Direct Messages** to send a secure message to anyone on the network.
 
+Here is a pic of the SenseCap Tracker T1000-E for $40 (it's the size of a credit card, just a little thicker)
+
 ![Device Example](images/t1000.webp)
 
 ---
 
 ## 📍 **Coverage Map**  
 
-### Our current coverage in Trabuco Canyon, CA.
+### Current Repeaters & Nodes in Trabuco Canyon, CA.
 
 ![Future Proposed Locations](images/future-network.png)
 
@@ -42,17 +44,17 @@ View our [Extended Range Plan](EXTENDED-RANGE.md) and the [Future Goals of the M
 
 We're looking for:
 
-- **Nerds, hardware hackers, and radio enthusiasts** 🎙️ to help us establish the network and place inital repeaters.
+- **Nerds, hardware hackers, and radio enthusiasts** 🎙️ to help us establish the network, place inital repeaters, and contribute code.
 - **You** to buy a device, join the network, and spread the word!
 - **Meet Up** – Join us 📅 **Wednesday's at 6PM** on the mesh & facebook to test the network weekly.
-- **Community Leaders** to help us secure funding. Our fundraiser goal is $1,000. 
+- **Community Leaders** to help us secure funding. Our goal is $1,000 to purchase repeater equipment and maintain our servers.
 
 ---
 
 ## ✅ **Current Progress**  
 - Solar node is live on Hamilton Trail & near the Doody Ranch
 - Succesful testing between Hamilton, Cooks, and even Coto De Caza
-- This website, including a MQQT Server, Grafana Dashboard, and custom code [here](https://github.com/opticgroup/icmesh)
+- **Geek Alert!** This website, including a MQQT Server, Grafana Dashboard, and custom code on [GitHub](https://github.com/opticgroup/icmesh)
 
 ---
 
