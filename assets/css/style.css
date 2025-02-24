@@ -41,10 +41,9 @@ img {
     height: auto;
 }
 
-/* Mobile adjustments */
 @media (max-width: 768px) {
     body, .site, .page-content, .markdown-body {
-        font-size: 24px;  /* Or 26px if needed */
+        font-size: 26px;
     }
     th, td {
         font-size: 18px;
