@@ -74,30 +74,15 @@ How does ICMESH compare to other forms of communication?
 
 ## **FAQ - Frequently Asked Questions**
 
-**Do I need a license or technical knowledge?** - No license needed and the sensecap works out of the box.   
+**Do I need a license or technical knowledge?** - No license is needed.   Technical knowledge helps but as long as you are comfortable using your phone, you should be able to use this sytem. 
 
-**What is RSSI and SNR mean?** - Meshtastic devices provide two key metrics to evaluate signal quality: **RSSI (Received Signal Strength Indicator)** and **SNR (Signal-to-Noise Ratio)**.  
+**Where can I get help?** - Many of us are on the Trabuco Facebook pages.   Comment on our posts and find us there to get help.
 
-In wireless communication, **RSSI** and **SNR** determine signal quality.
+**How reliable is this?** - As we get started, coverage will be spotty.  The more repeaters we put up and the more nodes that join the network, the better the coverage becomes.
 
-#### **RSSI** (Signal Strength)  
-- Measures how strong the signal is (like how loud someone is speaking).  
-  - **Good:** Above **-115 dBm**  
-  - **Poor:** Below **-126 dBm**  
-- **Analogy:** In a concert, voices can be loud (**RSSI = -80 dBm**) but still hard to hear due to noise.
+**How much does this cost?** - Your initial cost will be about $50.  There is no monthly fees.
 
-#### **SNR** (Signal Clarity)  
-- Measures how much louder the signal is compared to background noise.  
-  - **Good:** Above **17.5 dB**  
-  - **Poor:** Below **9 dB**  
-- **Analogy:** In a quiet cafe, soft voices (**RSSI = -115 dBm**) are easy to understand because the noise is minimal (**SNR = 25 dB**).
-
-Both strong **RSSI** and high **SNR** are needed for reliable communication.
-
-| **Metric**   | **Good**                     | **Fair**                       | **Bad**                       | **Poor**                   |
-|--------------|-------------------------------|---------------------------------|-------------------------------|----------------------------|
-| **RSSI**     | 🟢 > -115 dBm                 | 🟡 -115 dBm to -120 dBm         | 🟠 -120 dBm to -126 dBm        | 🔴 ≤ -126 dBm              |
-| **SNR**      | 🟢 > 17.5 dB                  | 🟡 11 dB to 17.5 dB             | 🟠 9 dB to 11 dB               | 🔴 < 9 dB                  |
+**What is RSSI and SNR mean?** - Meshtastic devices provide two key metrics to evaluate signal quality: **RSSI (Received Signal Strength Indicator)** and **SNR (Signal-to-Noise Ratio)**.  Go here to learn more. 
 
 ---
 
