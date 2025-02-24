@@ -54,7 +54,7 @@ We're looking for:
 ## ✅ **Current Progress**  
 - Solar node is live on Hamilton Trail & near the Doody Ranch
 - Succesful testing between Hamilton, Cooks, and even Coto De Caza
-- **Geek Alert!** This website, including a MQQT Server, Grafana Dashboard, and custom code on [GitHub](https://github.com/opticgroup/icmesh)
+- **Geek Alert!** This website, including a MQQT Server, Grafana Dashboard, and custom code on [GitHub](https://github.com/opticgroup/icmesh).  Note:  This is a decentralized project.  Feel free to commit changes and create a pull request to update this website, code, etc.
 
 ---
 
