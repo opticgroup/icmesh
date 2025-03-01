@@ -75,7 +75,7 @@ How does ICMESH compare to other forms of communication?
 
 ## ❓ **FAQ - Frequently Asked Questions**
 
-**How reliable is this?** 🔍 - As we kick off, coverage might be patchy 🌦️. The more repeaters we install 📡 and nodes that join the network 🌐, the stronger it gets! 🚀 Nope, this isn’t a cell phone substitute 📱❌.
+**How reliable is this?** 🔍 - As we kick off, coverage might be patchy 🌦️. The more nodes 📡 we install, the stronger the network gets! 🚀 Nope, this isn’t a cell phone substitute 📱❌.
 
 **Do I need a license or tech skills?** 🧑‍🔧 - No license required 🎫❌. Tech know-how is a bonus but not needed to chat with neighbors 👋😊.
 
