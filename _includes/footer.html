@@ -1,11 +1,13 @@
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    // Select all <a> tags in the main content area
-    var links = document.querySelectorAll('.main-content a');
+    // Select all <a> tags within the content area
+    var links = document.querySelectorAll('section.main-content a');
     links.forEach(function(link) {
-      // Add target="_blank" and rel="noopener noreferrer" for security
-      link.setAttribute("target", "_blank");
-      link.setAttribute("rel", "noopener noreferrer");
+      // Only modify links that are not internal (optional condition)
+      if (!link.getAttribute("href").startsWith("/")) {
+        link.setAttribute("target", "_blank");
+        link.setAttribute("rel", "noopener noreferrer");
+      }
     });
   });
 </script>
