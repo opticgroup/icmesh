@@ -1,4 +1,4 @@
 @import "{{ site.theme }}";
-.btn {
+a.btn[href*="github.com"] {
   display: none !important;
 }
