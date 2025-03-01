@@ -43,20 +43,20 @@ View our [Extended Range Plan](EXTENDED-RANGE.md) and the [Future Goals of the M
 
 ## 🤝 **We Need Your Help!**
 
-We're looking for:
+We’re looking for:
 
-- **You** to buy a device, join the network, and start working with us!
-- **Community Leaders** to help us fund raise $1,000 for the further build out of repeaters in Trabuco Canyon and specialized nodes to connect our canyon neighbors.
-- **Nerds, hardware hackers, and radio enthusiasts** 🎙️ to help us establish the network, place inital repeaters, manage servers, and contribute code.
+- **You** 👤 to grab a device 📻, join the network 🌐, and team up with us! 🚀
+- **Community Leaders** 🌟 to rally support and help us raise $1,000 💰 for more repeaters in Trabuco Canyon 📡 and special nodes to link our distant canyon folk 🏞️.
+- **Nerds, hardware hackers, and radio enthusiasts** 🎙️🤓 to assist in setting up the network, placing initial repeaters 📶, managing servers 🖥️, and coding cool stuff to make this all work 💻✨.
 
 - **Meet Up** – Join us 📅 **Wednesday's at 6PM** on the mesh & facebook to test the network weekly.   Join us on [Discord](https://discord.com/invite/YY4eNUTF?utm_source=Discord%20Widget&utm_medium=Connect) to chat with [SoCalMesh](https://socalmesh.org)
 
 ---
 
 ## ✅ **Current Progress**  
-- Solar node is live on Hamilton Trail with 3 more nodes ready for deployment.
-- Succesful testing between Hamilton, Cooks, and even Coto De Caza
-- Tools to help admins build out & monitor the network (MQQT, MeshView, Maps, Grafana Dashboards).  
+- Solar node ☀️ is live on Hamilton Trail 🌄, with 3 more nodes locked and loaded for deployment 📡🚀.  
+- Successful testing 🎉 between Hamilton, Cooks, and even Coto De Caza 📶✨.  
+- Tools 🛠️ for admins to expand and track the network: MQTT, MeshView, Maps 🗺️, and Grafana Dashboards 📊🌐.   
 
 ---
 
