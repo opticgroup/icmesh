@@ -3,7 +3,10 @@ Welcome to **ICMESH**, a community-driven project to create a **peer-to-peer enc
 ---
 
 ### 📡 **How Does It Work?**  
-We’ve placed several repeaters 📶 across the canyons, starting in Trabuco Canyon, to provide radio frequency coverage 🌍 over our rugged terrain. Using Meshtastic, an open-source mesh networking system 🌐, all you need is a small radio 📻 paired to your phone via Bluetooth 📲 to get up and running in minutes ⏱️—here’s an example of how it works: Bobby can text Jack 💬 across the network, with messages hopping from device to device 🚀, bypassing obstacles and working without internet, power, or cell service 🚫 
+We’ve placed several repeaters 📶 across the canyons, starting in Trabuco Canyon, to provide radio frequency coverage 🌍 over our rugged terrain. Using Meshtastic, an open-source mesh networking system 🌐, all you need is a small radio 📻 paired to your phone via Bluetooth 📲 to get up and running in minutes.
+
+### ⏱️ **Example**
+Bobby can text Jack 💬 across the network, with messages hopping from device to device 🚀, bypassing obstacles and working without internet, power, or cell service 🚫 
 
 ![Community Example](images/community-example.jpg)
 
