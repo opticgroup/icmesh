@@ -29,7 +29,7 @@ Here is a pic of the SenseCap Tracker T1000-E for $40
 
 ## 📍 **Coverage Map**  
 
-### Current Mesh Nodes in Trabuco Canyon, CA.
+### Current Infrastructure Nodes in Trabuco Canyon, CA.
 
 ![Future Proposed Locations](images/future-network.png)
 
@@ -53,7 +53,7 @@ We’re looking for:
 ---
 
 ## ✅ **Current Progress**  
-- 1 solar node ☀️ is live on Hamilton Trail, with 3 more nodes locked and loaded for deployment 📡.  
+- 1 solar node ☀️ is live on Hamilton Trail + 3 more nodes ready for deployment 📡.  
 - Successful testing between Hamilton, Cooks, and even Coto De Caza 📶.  
 - Tools for admins to expand and track the network: MQTT, MeshView, Maps 🗺️, and Grafana Dashboards 🌐.   
 
