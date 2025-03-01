@@ -3,7 +3,7 @@ Welcome to the **Inter-Canyon Mesh Network** 🏞️, a community-driven project
 ---
 
 ### 📡 **How Does It Work?**  
-Our team has installed radio repeaters 📡 on hilltops 🌄 in Trabuco Canyon to provide reliable radio reception for residents. All you need is a small $50 mesh radio 📻 paired via Bluetooth 📲 to your existing cell phone. Download the Meshtastic app 📱, follow the simple instructions, and you’ll be up and running in minutes ⏱️. Practice group texting 💬 with your community or, more importantly, stay connected when disaster strikes! 📶💧🔥🌐
+Our team has installed radio repeaters 📡 on hilltops 🌄 in Trabuco Canyon to provide initial radio reception for residents. All you need is a small $50 mesh radio 📻 paired via Bluetooth 📲 to your existing cell phone. Download the Meshtastic app 📱, follow the simple instructions, and you’ll be up and running in minutes ⏱️. Practice group texting 💬 with your community or, more importantly, stay connected when disaster strikes! 📶💧🔥🌐
 
 ### ⏱️ **Example**
 Bobby can text Jack 💬 across the network, with messages hopping from device to device 🚀, bypassing obstacles and working without internet, power, or cell service 🚫✨
