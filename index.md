@@ -1,4 +1,4 @@
-Welcome to **ICMESH**, a community-driven project to create a **peer-to-peer encrypted communication network** across **our canyons** using **Meshtastic**. This network operates completely **off-grid**—with no internet or cell service required! 🌐  
+Welcome to **ICMESH**, a community-driven project to create a **peer-to-peer encrypted communication network** across **our canyons** using **Meshtastic**. This network operates completely **off-grid**—with no internet or cell service required! 🌐 
 
 ---
 
