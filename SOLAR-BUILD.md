@@ -1,4 +1,4 @@
-# 🛠️ **TC Mesh Solar Router Parts List** ☀️📡
+# 🛠️ **ICMESH Solar Router Parts List** ☀️📡
 
 Prelimary "wish list" of a TCMESH Solar Router node, feel free to suggest changes: 
 
