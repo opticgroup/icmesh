@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: ICMESH Project
-description: Inter-Canyon Mesh Network, Orange County, CA.
+description: Inter-Canyon Mesh Network, Orange County, CA
+github:
+  is_project_page: false
