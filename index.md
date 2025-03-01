@@ -48,8 +48,7 @@ We’re looking for:
 - **You** 👤 to grab a device 📻, join the network 🌐, and team up with us! 🚀
 - **Community Leaders** 🌟 to rally support and help us raise $1,000 💰 for more repeaters in Trabuco Canyon 📡 and special nodes to link our distant canyon folk 🏞️.
 - **Nerds, hardware hackers, and radio enthusiasts** 🎙️🤓 to assist in setting up the network, placing initial repeaters 📶, managing servers 🖥️, and coding cool stuff to make this all work 💻✨.
-
-- **Meet Up** – Join us 📅 **Wednesday's at 6PM** on the mesh & facebook to test the network weekly.   Join us on [Discord](https://discord.com/invite/YY4eNUTF?utm_source=Discord%20Widget&utm_medium=Connect) to chat with [SoCalMesh](https://socalmesh.org)
+- **Meet Up with Us** – Join us 📅 **Wednesday's at 6PM** on the mesh & facebook to test the network weekly.   Join us on [Discord](https://discord.com/invite/YY4eNUTF?utm_source=Discord%20Widget&utm_medium=Connect) to chat with [SoCalMesh](https://socalmesh.org)
 
 ---
 
