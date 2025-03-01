@@ -1,0 +1,11 @@
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Select all <a> tags in the main content area
+    var links = document.querySelectorAll('.main-content a');
+    links.forEach(function(link) {
+      // Add target="_blank" and rel="noopener noreferrer" for security
+      link.setAttribute("target", "_blank");
+      link.setAttribute("rel", "noopener noreferrer");
+    });
+  });
+</script>
