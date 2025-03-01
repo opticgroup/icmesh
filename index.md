@@ -1,9 +1,9 @@
-Welcome to **ICMESH**, a community-driven project to create a **peer-to-peer encrypted communication network** across **our canyons** using **Meshtastic**. This network operates completely **off-grid**—with no internet or cell service required! 🌐 
+Welcome to the **Inter-Canyon Mesh Network**, a community-driven project to create a **peer-to-peer encrypted communication network** across **our canyons** using **Meshtastic**. Text message your peers or the canyon at large with no internet, power, or cell phone service! 🌐 
 
 ---
 
 ### 📡 **How Does It Work?**  
-We’ve placed several repeaters 📶 across the canyons, starting in Trabuco Canyon, to provide radio frequency coverage 🌍 over our rugged terrain. Using Meshtastic, an open-source mesh networking system 🌐, all you need is a small radio 📻 paired to your phone via Bluetooth 📲 to get up and running in minutes.
+Our team has installed radio repeaters 📡 on hilltops 🌄 in Trabuco Canyon to provide reliable radio reception for residents. All you need is a small $50 mesh radio 📻 paired via Bluetooth 📲 to your existing cell phone. Download the Meshtastic app 📱, follow the simple instructions, and you’ll be up and running in minutes ⏱️. Practice group texting 💬 with your community or, more importantly, stay connected when disaster strikes!  📶💧🔥🌐.
 
 ### ⏱️ **Example**
 Bobby can text Jack 💬 across the network, with messages hopping from device to device 🚀, bypassing obstacles and working without internet, power, or cell service 🚫 
@@ -14,7 +14,7 @@ Bobby can text Jack 💬 across the network, with messages hopping from device t
 
 ## ⚙️ **Quick Start**  
 
-1. **Get a Device**: 👉 Starting at $40 and great for walking around the [SenseCap Tracker T1000-E](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html) is an excellent mobile device or try a [WisMesh Pocket V2 for $99](https://store.rakwireless.com/products/wismesh-pocket).
+1. **Get a Device**: 👉 Starting at $40 and great for walking around the [SenseCap Tracker T1000-E](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html) is an excellent every day carry radio the size of a credit card or try something with a screen like the [WisMesh Pocket V2 for $99](https://store.rakwireless.com/products/wismesh-pocket).
 2. **Install the App:** [Download the Meshtastic app on iOS (App Store)](https://apps.apple.com/us/app/meshtastic/id1586432531) or [Android (Google Play)](https://play.google.com/store/apps/details?id=com.geeksville.mesh&pcampaignid=web_share). 📲  
 3. **Connect Your Phone**: Open the **Meshtastic** app and pair to your new device. 
 4. **Configure your device**: The first thing you want to do is set your region to United States (should prompt you to do this).  Then go to Settings -> User -> and choose any short and long name you want.  For example: short name = AMY and long name = AMY - ICMESH.COM. **Important** We encourage you to use ICMESH.COM in your long name to promote ICMESH and so that we can count how many ICMESH users are using the network.
@@ -110,3 +110,9 @@ To ensure a positive and respectful environment for all users, the following gui
    Always place nodes in areas with federal, state, city, government, and property owner permission. Avoid "rogue" installations to maintain integrity.
 
 We look forward to seeing you on ICMESH!
+
+### ⚠️ Disclaimer
+
+The content and services provided on icmesh.com are offered by a team that is not related to or affiliated with Meshtastic. We utilize the Meshtastic software as part of our platform but operate independently from the Meshtastic organization. We proudly support SoCalMesh, a community dedicated to mesh networking enthusiasts in Southern California.
+
+Use of this site, its tools, and any associated hardware or software is at your own risk. We do not guarantee reliable communications, and this service should not be depended upon for critical or time-sensitive needs. icmesh.com is not intended to replace professional emergency services or provide 911 functionality. In case of an emergency, contact your local authorities or dial 911 immediately. We are not liable for any damages, losses, or disruptions resulting from the use of this site or its services.
