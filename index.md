@@ -3,7 +3,7 @@ Welcome to the **Inter-Canyon Mesh Network** 🏞️, a community-driven project
 ---
 
 ### 📡 **How Does It Work?**  
-Our team has installed radio repeaters 📡 on hilltops 🌄 in Trabuco Canyon to provide initial radio reception for residents. All you need is a small $50 mesh radio 📻 paired via Bluetooth 📲 to your existing cell phone. Download the Meshtastic app 📱, follow the simple instructions, and you’ll be up and running in minutes ⏱️. Practice group texting 💬 with your community or, more importantly, stay connected when disaster strikes! 📶💧🔥🌐
+Our team has installed radio infrastruture 📡 on hilltops 🌄 in Trabuco Canyon to provide initial radio reception for residents. All you need is a small $50 mesh radio 📻 paired via Bluetooth 📲 to your existing cell phone. Download the Meshtastic app 📱, follow the simple instructions, and you’ll be up and running in minutes ⏱️. Practice group texting 💬 with your community or, more importantly, stay connected when disaster strikes! 📶💧🔥🌐
 
 ### ⏱️ **Example**
 Bobby can text Jack 💬 across the network, with messages hopping from device to device 🚀, bypassing obstacles and working without internet, power, or cell service 🚫✨
@@ -46,7 +46,7 @@ View our [Extended Range Plan](EXTENDED-RANGE.md) and the [Future Goals of the M
 We’re looking for:
 
 - **You** 👤 to grab a device 📻, join the network 🌐, and team up with us! 🚀
-- **Community Leaders** 🌟 to rally support and help us raise $1,000 💰 for more repeaters in Trabuco Canyon 📡 and special nodes to link our distant canyon folk 🏞️.
+- **Community Leaders** 🌟 to rally support and help us raise $1,000 💰 for more hilltop radios in Trabuco Canyon 📡 and special nodes to link our distant canyon folk 🏞️.
 - **Nerds, hardware hackers, and radio enthusiasts** 🎙️🤓 to assist in setting up the network, placing initial repeaters 📶, managing servers 🖥️, and coding cool stuff to make this all work 💻✨.
 - **Meet Up with Us** – Join us 📅 **Wednesday's at 6PM** on the mesh & [Discord](https://discord.gg/meshtastic-867578229534359593) to test the network.
 
