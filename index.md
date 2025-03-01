@@ -53,7 +53,7 @@ We’re looking for:
 ---
 
 ## ✅ **Current Progress**  
-- Solar node ☀️ is live on Hamilton Trail 🌄, with 3 more nodes locked and loaded for deployment 📡🚀.  
+- 1 solar node ☀️ is live on Hamilton Trail 🌄, with 3 more nodes locked and loaded for deployment 📡🚀.  
 - Successful testing 🎉 between Hamilton, Cooks, and even Coto De Caza 📶✨.  
 - Tools 🛠️ for admins to expand and track the network: MQTT, MeshView, Maps 🗺️, and Grafana Dashboards 📊🌐.   
 
