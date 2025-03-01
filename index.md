@@ -3,7 +3,7 @@ Welcome to the **Inter-Canyon Mesh Network** 🏞️, a community-driven project
 ---
 
 ### 📡 **How Does It Work?**  
-Our team has installed radio infrastruture 📡 on hilltops 🌄 in Trabuco Canyon to provide initial radio reception for residents. All you need is a small $50 mesh radio 📻 paired via Bluetooth 📲 to your existing cell phone. Download the Meshtastic app 📱, follow the simple instructions, and you’ll be up and running in minutes ⏱️. Practice group texting 💬 with your community or, more importantly, stay connected when disaster strikes! 📶💧🔥🌐
+Our team has installed radio infrastruture 📡 on hilltops 🌄 in Trabuco Canyon to provide initial coverage for residents. All you need is a small $50 mesh radio 📻 paired via Bluetooth 📲 to your existing cell phone. Download the Meshtastic app 📱, follow the simple instructions, and you’ll be up and running in minutes ⏱️. Practice group texting 💬 with your community or, more importantly, stay connected when disaster strikes! 📶💧🔥🌐
 
 ### ⏱️ **Example**
 Bobby can text Jack 💬 across the network, with messages hopping from device to device 🚀, bypassing obstacles and working without internet, power, or cell service 🚫✨
@@ -17,7 +17,7 @@ Bobby can text Jack 💬 across the network, with messages hopping from device t
 1. **Get a Device**: 👉 Starting at $40 and great for walking around the [SenseCap Tracker T1000-E](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html) is an excellent every day carry radio the size of a credit card or try something with a screen like the [WisMesh Pocket V2 for $99](https://store.rakwireless.com/products/wismesh-pocket).
 2. **Install the App:** [Download the Meshtastic app on iOS (App Store)](https://apps.apple.com/us/app/meshtastic/id1586432531) or [Android (Google Play)](https://play.google.com/store/apps/details?id=com.geeksville.mesh&pcampaignid=web_share). 📲  
 3. **Connect Your Phone**: Open the **Meshtastic** app and pair to your new device. 
-4. **Configure your device**: The first thing you want to do is set your region to United States (should prompt you to do this).  Then go to Settings -> User -> and choose any short and long name you want.  For example: short name = BUR and long name = AMBER - ICMESH.COM. **Important**: We encourage you to use ICMESH.COM in your long name to promote the project and so we can count you as an active user.
+4. **Configure your device**: The first thing you want to do is set your region to United States (should prompt you to do this).  Then go to Settings -> User -> and choose any short and long name you want.  For example: short name = BUR and long name = AMBER - ICMESH.COM. **Important**: We encourage you to use ICMESH.COM in your long name to promote this project and so we can count you as an active user.
 5. **Join the Network**: Your device will automatically join the ICMESH network and will also work with other mesh networks outside of the canyon. There are over 1,000 people using Meshtastic in Southern California.
 6. **Send A Message**: In your mobile app, go to **Channel** to send a message to everyone or **Direct Messages** to send a secure message to anyone on the network.
 
@@ -47,8 +47,8 @@ We’re looking for:
 
 - **You** 👤 to grab a device 📻, join the network 🌐, and team up with us! 🚀
 - **Community Leaders** 🌟 to rally support and help us raise $1,000 💰 for more hilltop radios in Trabuco Canyon 📡 and special nodes to link our distant canyon folk 🏞️.
-- **Nerds, hardware hackers, and radio enthusiasts** 🎙️🤓 to assist in setting up the network, placing initial repeaters 📶, managing servers 🖥️, and coding cool stuff to make this all work 💻✨.
-- **Meet Up with Us** – Join us 📅 **Wednesday's at 6PM** on the mesh & [Discord](https://discord.gg/meshtastic-867578229534359593) to test the network.
+- **Nerds, hardware hackers, and radio enthusiasts** 🎙️🤓 to assist in setting up the network, placing initial nodes 📶, managing servers 🖥️, and coding cool stuff to make this all work 💻✨.
+- **Meet Up with Us** – Join us 📅 **Wednesday's at 6PM** on the mesh & [Discord](https://discord.gg/5FETN4UY) to test the network.
 
 ---
 
@@ -79,7 +79,7 @@ How does ICMESH compare to other forms of communication?
 
 **Do I need a license or tech skills?** 🧑‍🔧 - No license required 🎫❌. Tech know-how is a bonus but not needed to chat with neighbors 👋😊.
 
-**Where can I get help?** 🆘 - Catch us on the Trabuco Facebook pages 📖 or join us on [Discord](https://discord.com/invite/YY4eNUTF?utm_source=Discord%20Widget&utm_medium=Connect) 💬✨.
+**Where can I get help?** 🆘 - Catch us on the Trabuco Facebook pages 📖 or join us on [Discord](https://discord.gg/5FETN4UY) 💬✨.
 
 **How much does this cost?** 💸 - Just a radio ($50 to $100) 📻. No monthly fees ever 🙅‍♂️💰.
 
