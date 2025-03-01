@@ -1,12 +1,12 @@
-Welcome to the **Inter-Canyon Mesh Network**, a community-driven project to create a **peer-to-peer encrypted communication network** across **our canyons** using **Meshtastic**. Text message your peers or the canyon at large with no internet, power, or cell phone service! 🌐 
+Welcome to the **Inter-Canyon Mesh Network** 🏞️, a community-driven project to build a **peer-to-peer encrypted communication network** 🔒 across **our canyons** using **Meshtastic** 📡. Text message your peers or the canyon crew with no internet, power, or cell service needed! 🌐✨
 
 ---
 
 ### 📡 **How Does It Work?**  
-Our team has installed radio repeaters 📡 on hilltops 🌄 in Trabuco Canyon to provide reliable radio reception for residents. All you need is a small $50 mesh radio 📻 paired via Bluetooth 📲 to your existing cell phone. Download the Meshtastic app 📱, follow the simple instructions, and you’ll be up and running in minutes ⏱️. Practice group texting 💬 with your community or, more importantly, stay connected when disaster strikes!  📶💧🔥🌐.
+Our team has installed radio repeaters 📡 on hilltops 🌄 in Trabuco Canyon to provide reliable radio reception for residents. All you need is a small $50 mesh radio 📻 paired via Bluetooth 📲 to your existing cell phone. Download the Meshtastic app 📱, follow the simple instructions, and you’ll be up and running in minutes ⏱️. Practice group texting 💬 with your community or, more importantly, stay connected when disaster strikes! 📶💧🔥🌐
 
 ### ⏱️ **Example**
-Bobby can text Jack 💬 across the network, with messages hopping from device to device 🚀, bypassing obstacles and working without internet, power, or cell service 🚫 
+Bobby can text Jack 💬 across the network, with messages hopping from device to device 🚀, bypassing obstacles and working without internet, power, or cell service 🚫✨
 
 ![Community Example](images/community-example.jpg)
 
@@ -17,11 +17,11 @@ Bobby can text Jack 💬 across the network, with messages hopping from device t
 1. **Get a Device**: 👉 Starting at $40 and great for walking around the [SenseCap Tracker T1000-E](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html) is an excellent every day carry radio the size of a credit card or try something with a screen like the [WisMesh Pocket V2 for $99](https://store.rakwireless.com/products/wismesh-pocket).
 2. **Install the App:** [Download the Meshtastic app on iOS (App Store)](https://apps.apple.com/us/app/meshtastic/id1586432531) or [Android (Google Play)](https://play.google.com/store/apps/details?id=com.geeksville.mesh&pcampaignid=web_share). 📲  
 3. **Connect Your Phone**: Open the **Meshtastic** app and pair to your new device. 
-4. **Configure your device**: The first thing you want to do is set your region to United States (should prompt you to do this).  Then go to Settings -> User -> and choose any short and long name you want.  For example: short name = AMY and long name = AMY - ICMESH.COM. **Important** We encourage you to use ICMESH.COM in your long name to promote ICMESH and so that we can count how many ICMESH users are using the network.
+4. **Configure your device**: The first thing you want to do is set your region to United States (should prompt you to do this).  Then go to Settings -> User -> and choose any short and long name you want.  For example: short name = BUR and long name = AMBER - ICMESH.COM. **Important** We encourage you to use ICMESH.COM in your long name to promote ICMESH and so that we can count how many ICMESH users are using the network.
 5. **Join the Network**: Your device will automatically join the ICMESH network and will also work with other mesh networks outside of the canyon. There are over 1,000 people using Meshtastic in Southern California.
 6. **Send A Message**: In your mobile app, go to **Channel** to send a message to everyone or **Direct Messages** to send a secure message to anyone on the network.
 
-Here is a pic of the SenseCap Tracker T1000-E for $40 (it's the size of a credit card, just a little thicker)
+Here is a pic of the SenseCap Tracker T1000-E for $40 (yep, the size of a credit card)
 
 ![Device Example](images/t1000.webp)
 
@@ -45,17 +45,18 @@ View our [Extended Range Plan](EXTENDED-RANGE.md) and the [Future Goals of the M
 
 We're looking for:
 
-- **Nerds, hardware hackers, and radio enthusiasts** 🎙️ to help us establish the network, place inital repeaters, and contribute code.
-- **You** to buy a device, join the network, and spread the word!
-- **Meet Up** – Join us 📅 **Wednesday's at 6PM** on the mesh & facebook to test the network weekly.
-- **Community Leaders** to help us secure funding. Our goal is $1,000 to purchase repeater equipment and maintain our servers.
+- **You** to buy a device, join the network, and start working with us!
+- **Community Leaders** to help us fund raise $1,000 for the further build out of repeaters in Trabuco Canyon and specialized nodes to connect our canyon neighbors.
+- **Nerds, hardware hackers, and radio enthusiasts** 🎙️ to help us establish the network, place inital repeaters, manage servers, and contribute code.
+
+- **Meet Up** – Join us 📅 **Wednesday's at 6PM** on the mesh & facebook to test the network weekly.   Join us on [Discord](https://discord.com/invite/YY4eNUTF?utm_source=Discord%20Widget&utm_medium=Connect) to chat with [SoCalMesh](https://socalmesh.org)
 
 ---
 
 ## ✅ **Current Progress**  
-- Solar node is live on Hamilton Trail with 3 more nodes ready for placement.
+- Solar node is live on Hamilton Trail with 3 more nodes ready for deployment.
 - Succesful testing between Hamilton, Cooks, and even Coto De Caza
-- Advanced features such as MQQT, Meshview, and a [Discord Chat Server](https://discord.com/invite/YY4eNUTF?utm_source=Discord%20Widget&utm_medium=Connect) are available.
+- Tools to help admins build out & monitor the network (MQQT, MeshView, Maps, Grafana Dashboards).  
 
 ---
 
@@ -73,17 +74,17 @@ How does ICMESH compare to other forms of communication?
 
 ---
 
-## **FAQ - Frequently Asked Questions**
+## ❓ **FAQ - Frequently Asked Questions**
 
-**Do I need a license or technical knowledge?** - No license is needed.   Technical knowledge helps but as long as you are comfortable using your phone, you should be able to use this sytem. 
+**How reliable is this?** 🔍 - As we kick off, coverage might be patchy 🌦️. The more repeaters we install 📡 and nodes that join the network 🌐, the stronger it gets! 🚀 Nope, this isn’t a cell phone substitute 📱❌.
 
-**Where can I get help?** - Many of us are on the Trabuco Facebook pages.   Comment on our posts and find us there to get help.
+**Do I need a license or tech skills?** 🧑‍🔧 - No license required 🎫❌. Tech know-how is a bonus but not needed to chat with neighbors 👋😊.
 
-**How reliable is this?** - As we get started, coverage will be spotty.  The more repeaters we put up and the more nodes that join the network, the better the coverage becomes.
+**Where can I get help?** 🆘 - Catch us on the Trabuco Facebook pages 📖 or join us on [Discord](https://discord.com/invite/YY4eNUTF?utm_source=Discord%20Widget&utm_medium=Connect) 💬✨.
 
-**How much does this cost?** - Your initial cost will be about $50.  There is no monthly fees.
+**How much does this cost?** 💸 - Just a radio ($50 to $100) 📻. No monthly fees ever 🙅‍♂️💰.
 
-**What does RSSI and SNR mean?** - Meshtastic devices provide two key radio metrics to evaluate signal quality: **RSSI (Received Signal Strength Indicator)** and **SNR (Signal-to-Noise Ratio)**. We explain both [here](rssi-snr.md).
+**What does RSSI and SNR mean?** 📊 - Meshtastic gear gives you two key signal stats: **RSSI (Received Signal Strength Indicator)** 📶 and **SNR (Signal-to-Noise Ratio)** 🎙️. Learn more [here](rssi-snr.md) 📚✨.
 
 ---
 
@@ -113,6 +114,6 @@ We look forward to seeing you on ICMESH!
 
 ### ⚠️ Disclaimer
 
-The content and services provided on icmesh.com are offered by a team that is not related to or affiliated with Meshtastic. We utilize the Meshtastic software as part of our platform but operate independently from the Meshtastic organization. We proudly support SoCalMesh, a community dedicated to mesh networking enthusiasts in Southern California.
+The content and services provided on icmesh.com are offered by a decentralized team that is not related to or affiliated with Meshtastic. We utilize the Meshtastic software as part of our platform but operate independently from the Meshtastic organization. We proudly support [SoCalMesh](https://socalmesh.org), a community of over 1,000 people dedicated to mesh networking in Southern California.
 
 Use of this site, its tools, and any associated hardware or software is at your own risk. We do not guarantee reliable communications, and this service should not be depended upon for critical or time-sensitive needs. icmesh.com is not intended to replace professional emergency services or provide 911 functionality. In case of an emergency, contact your local authorities or dial 911 immediately. We are not liable for any damages, losses, or disruptions resulting from the use of this site or its services.
