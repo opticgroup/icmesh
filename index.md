@@ -21,7 +21,7 @@ Bobby can text Jack 💬 across the network, with messages hopping from device t
 5. **Join the Network**: Your device will automatically join the ICMESH network and will also work with other mesh networks outside of the canyon. There are over 1,000 people using Meshtastic in Southern California.
 6. **Send A Message**: In your mobile app, go to **Channel** to send a message to everyone or **Direct Messages** to send a secure message to anyone on the network.
 
-Here is a pic of the SenseCap Tracker T1000-E for $40 (yep, the size of a credit card)
+Here is a pic of the SenseCap Tracker T1000-E for $40
 
 ![Device Example](images/t1000.webp)
 
