@@ -29,7 +29,7 @@ Here is a pic of the SenseCap Tracker T1000-E for $40
 
 ## 📍 **Coverage Map**  
 
-### Current Repeaters & Nodes in Trabuco Canyon, CA.
+### Current Mesh Nodes in Trabuco Canyon, CA.
 
 ![Future Proposed Locations](images/future-network.png)
 
