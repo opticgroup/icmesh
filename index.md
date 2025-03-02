@@ -115,4 +115,4 @@ We look forward to seeing you on ICMESH!
 
 ### ⚠️ Disclaimer
 
-<small>icmesh.com is run by an independent team not affiliated with Meshtastic LLC, using Meshtastic® software under license (Meshtastic® is a trademark of Meshtastic LLC). We proudly support SoCalMesh, a 1,000+ member mesh networking community in Southern California. By using our site, you agree it’s provided “as is” with no warranties, and we’re not responsible for any communication issues, damages, or losses. It’s not a substitute for emergency services—dial 911 in emergencies.</small>
+<small>icmesh.com is run by an independent team not affiliated with Meshtastic LLC, using [Meshtastic®](https://meshtastic.org) software under license (Meshtastic® is a trademark of Meshtastic LLC). We proudly support [SoCalMesh](https://socalmesh.org), a 1,000+ member mesh networking community in Southern California. By using our site, you agree it’s provided “as is” with no warranties, and we’re not responsible for any communication issues, damages, or losses. It’s not a substitute for emergency services—dial 911 in emergencies.</small>
