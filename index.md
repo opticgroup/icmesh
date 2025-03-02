@@ -29,13 +29,13 @@ Here is a pic of the SenseCap Tracker T1000-E for $40
 
 ## 📍 **Coverage Map**  
 
-### Current Infrastructure Nodes in Trabuco Canyon, CA.
+### Current & Future Infrastructure Nodes in Trabuco Canyon, CA.
 
 ![Future Proposed Locations](images/future-network.png)
 
-| 🟢   | 🟡   | ⚫   |
-|------|------|------|
-| Operational | Planned | Wanted |
+| 🟢   | 🟡   |
+|------|------|
+| Operational | Planned |
 
 View our [Extended Range Plan](EXTENDED-RANGE.md) and the [Future Goals of the Mesh](FUTURE-GOALS.md)
 
