@@ -33,9 +33,9 @@ Here is a pic of the SenseCap Tracker T1000-E for $40
 
 ![Future Proposed Locations](images/future-network.png)
 
-| 🟢   | 🟡   |
-|------|------|
-| Operational | Planned |
+| 🟢   | 🟡   | 🔴   |
+|------|------|------|
+| Operational | Planned | Down |
 
 View our [Extended Range Plan](EXTENDED-RANGE.md) and the [Future Goals of the Mesh](FUTURE-GOALS.md)
 
