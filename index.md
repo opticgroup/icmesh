@@ -17,7 +17,7 @@ Bobby can text Jack 💬 across the network, with messages hopping from device t
 1. **Get a Device**: Starting at $40 and great for walking around the [SenseCap Tracker T1000-E](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html) is an excellent every day carry radio the size of a credit card or try something with a screen like the [WisMesh Pocket V2 for $99](https://store.rakwireless.com/products/wismesh-pocket).
 2. **Install the App:** [Download the Meshtastic app on iOS (App Store)](https://apps.apple.com/us/app/meshtastic/id1586432531) or [Android (Google Play)](https://play.google.com/store/apps/details?id=com.geeksville.mesh&pcampaignid=web_share). 📲  
 3. **Connect Your Phone**: Open the **Meshtastic** app, navigate to Bluetooth, pair with your device.
-4. **Join ICMESH**: Go to settings -> Lora Config -> Region = United States.   Use Preset ON.   Present **Medium Range - Slow**.  Ignore MTQQ = ON, OK to MQTT = ON.  Transmit Enabled = ON.  
+4. **Join ICMESH**: Go to settings -> Lora Config -> Region = United States.   Use Preset ON.   Present = **Medium Range - Slow**.  Ignore MQTT = ON, OK to MQTT = ON.  Transmit Enabled = ON.  
 5. **Name Your Device**: Settings -> User -> Short Name up to 4 characters or 1 Emoji -> Long Name <something short> + ICMESH.COM.  For example: short name = BAC and long name = BACON - ICMESH.COM. Use ICMESH.COM in your long name so we can include you on our community dashboard.  
 6. **Send A Message**: In your mobile app, go to **Channel** to send a message to everyone or **Direct Messages** to send a secure message to anyone on the network.
 
