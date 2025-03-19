@@ -12,15 +12,15 @@ Build list for an ICMESH solar node, with various options based on budget and ef
    - *Description*: Wondom BCPB3 Battery Management System for Lithium-ion batteries.
    - *Link*: [Wondom BCPB3 Battery Management System](https://store.sure-electronics.com/product/720)
 3. ***Batteries*** 🔋
-   - *Description*: 5x Molicel 18650 2800mAh INR18650P28A
+   - *Description*: 5x Molicel 18650 2800mAh INR18650P28A.
    - *Link*: [Molicel 18650](https://illumn.com/18650-molicel-2600mah-inr18650p28a-35a-high-discharge-flat-top.html)
 
 **Budget**
 1. ***Radio*** 📻
-   - *Description*: RAKwireless WisBlock Meshtastic Starter Kit US915 SKU 116016
+   - *Description*: RAKwireless WisBlock Meshtastic Starter Kit US915 SKU 116016.
    - *Link*: [WisBlock Meshtastic Starter Kit](https://store.rokland.com/products/rak-wireless-wisblock-meshtastic-starter-kit?ref=tc2)
 2. ***Battery*** 🔋
-   - *Description*: MakerFocus Flat 3.7V 3000mAh Rechargeable Lithium Polymer 11.1Wh Battery
+   - *Description*: MakerFocus Flat 3.7V 3000mAh Rechargeable Lithium Polymer 11.1Wh Battery.
    - *Link*: [3000mAh Lithium Polymer Battery](https://store.rokland.com/products/makerfocus-flat-3-7v-3000mah-rechargeable-lithium-polymer-11-1wh-battery-with-jst-type-ph-2-0-plug?ref=tc2)
 
 ## 2. Antenna Hardware 📡
@@ -36,7 +36,7 @@ Build list for an ICMESH solar node, with various options based on budget and ef
 ### 2. Antenna 📡
 **Performance**
 1. ***Antenna*** 📡
-   - *Description*: 5.8 dBi N-Male Omni Outdoor Helium 915 MHz Antenna for RAK Miner Hotspots & Meshtastic
+   - *Description*: 5.8 dBi N-Male Omni Outdoor Helium 915 MHz Antenna for RAK Miner Hotspots & Meshtastic.
    - *Link*: [Rokland 5.8 dBi 915 MHz Antenna](https://store.rokland.com/products/5-8-dbi-n-male-omni-outdoor-915-mhz-antenna-large-profile-32-height-for-helium-rak-miner-2-nebra-indoor-bobcat?srsltid=AfmBOoq5oWYOV-HQyHHKapHLHCdSt3BH7oWLDvQdIMCZcaP9H_cFnHFp)
 2. ***Antenna Cable*** 🔌📡
    - *Description*: # N-Male to N-Female antenna extension coaxial cable 400 grade 20".
@@ -62,5 +62,5 @@ Build list for an ICMESH solar node, with various options based on budget and ef
    - *Description*: RAKwireless Solar Panel with JST 1.5 connector (Large 5.5 x 3.5 inch).
    - *Link*: [RAKwireless Solar Panel](https://store.rokland.com/collections/solar/products/rakwireless-solar-panel-with-jst-1-5-connector-large-5-5-x-3-5-inch-sku-920433)
 3. ***Adhesive Sealant*** 🧪
-   - *Description*: 3M Marine Adhesive Sealant Fast Cure 5200
+   - *Description*: 3M Marine Adhesive Sealant Fast Cure 5200.
    - *Link*: [Marine Adhesive Sealant](https://www.homedepot.com/p/3M-3-oz-Marine-Fast-Cure-Adhesive-Sealant-PN05220/100571784)
